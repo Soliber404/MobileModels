@@ -8,18 +8,31 @@ import random
 import datetime
 import csv
 
+import requests
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
+
+# 用Retry功能在请求失败时重试
+retry_strategy = Retry(
+    total=3,
+    status_forcelist=[429, 500, 502, 503, 504],
+    method_whitelist=["HEAD", "GET", "OPTIONS"],
+    backoff_factor=1
+)
+adapter = HTTPAdapter(max_retries=retry_strategy)
+http = requests.Session()
+http.mount("https://", adapter)
+http.mount("http://", adapter)
+
 # 时间戳
 ts = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 
 # 创建Logger对象
-logging.basicConfig(filename='path/to/file.log', encoding='utf-8', level=logging.INFO)
+logging.basicConfig(encoding='utf-8', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-# 设置日志级别
-logger.setLevel(logging.DEBUG)
-
 # 创建FileHandler对象
-file_handler = logging.FileHandler("{}.log".format(ts))
+file_handler = logging.FileHandler(f"samsung_{ts}.log")
 
 # 创建StreamHandler对象
 stream_handler = logging.StreamHandler()
@@ -58,8 +71,15 @@ def get_model_info(name, url):
     Args:
         url (_type_): 机型的完整url
     """
-    # logger.info("采集机型信息: {}".format(url))
-    response = requests.get(url)
+    # 请求时要注意防止反爬
+    response = None
+    while response is None:
+        try:
+            response = http.get(url)
+        except requests.exceptions.RequestException as e:
+            logger.warning(f"Error:{e}")
+            time.sleep(120) # 请求失败，休眠120分钟
+    
     # 阻塞3~5s，避免被ban了
     time.sleep(random.randint(3,5))
     table = html_table_to_dict(response.content)
@@ -84,7 +104,16 @@ with open('samsung_{}.csv'.format(ts), 'a', newline='',encoding='utf-8') as csvf
     while True:
         try:
             logger.info("开始采集第{}页: {}".format(page,page_url))
-            response = requests.get(page_url)
+
+            # 请求时要注意防止反爬
+            response = None
+            while response is None:
+                try:
+                    response = http.get(page_url)
+                except requests.exceptions.RequestException as e:
+                    logger.warning(f"Error:{e}")
+                    time.sleep(120) # 请求失败，休眠120分钟
+
             if(response.ok is False):
                 logger.error("无法请求：{}, 状态码：{}, 原因：".format(page_url, response.status_code, response.reason))
                 break;
