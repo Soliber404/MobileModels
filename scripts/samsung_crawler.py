@@ -12,6 +12,7 @@ import csv
 ts = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 
 # 创建Logger对象
+logging.basicConfig(filename='path/to/file.log', encoding='utf-8', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # 设置日志级别
