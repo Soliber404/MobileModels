@@ -1,4 +1,51 @@
 # CHANGELOG
+## 2023-09-01
+- `vivo_global_en` Add vivo T2 Pro.
+## 2023-08-30
+- `vivo_global_en` Add several new models.
+## 2023-08-29
+- `huawei_global_en` Add HUAWEI Mate 60 Pro.
+## 2023-08-25
+- `xiaomi_en` Add Redmi 12R.
+## 2023-08-23
+- `realme_global_en` Add realme 11 5G series.
+## 2023-08-16
+- `oneplus_en` Add OnePlus Ace 2 Pro.
+## 2023-08-15
+- `mitv_global_en` Add several Indian models.
+## 2023-08-11
+- `realme_global_en` Add realme 11 4G.
+- `xiaomi_en` Add Redmi 12 5G.
+## 2023-08-04
+- `oneplus_en` Add OnePlus Nord CE 3.
+- `xiaomi_en` Add MIX Fold 3, Xiaomi 13T, POCO M6 Pro 5G.
+## 2023-07-30
+- `honor_global_en` Add HONOR X5 Plus & X6a.
+## 2023-07-24
+- `xiaomi_en` Add Redmi 12 5G.
+## 2023-07-20
+- `realme_global_en` Add realme Pad 2.
+- `vivo_global_en` Add vivo Y29.
+## 2023-07-18
+- `huawei_global_en` Add HUAWEI MatePad 11.5.
+## 2023-07-13
+- `oppo_global_en` Add OPPO Pad 2.
+## 2023-07-07
+- `honor_global_en` Add HONOR Pad X9.
+## 2023-07-06
+- `oppo_global_en` Add OPPO Reno10 series.
+- `realme_global_en` Add realme Narzo 60 series.
+## 2023-07-05
+- `huawei_global_en` Add several models.
+## 2023-06-27
+- `xiaomi_en` Add several new models.
+## 2023-06-17
+- `huawei_global_en` Add HUAWEI nova 11.
+## 2023-06-16
+- `xiaomi_en` Add Redmi 12.
+## 2023-06-13
+- `honor_global_en` Add HONOR 90 Lite.
+- `oppo_global_en` Add OPPO Reno9 A.
 ## 2023-06-01
 - `vivo_global_en` Add vivo Y27 5G, iQOO Neo7 Pro.
 ## 2023-05-29

@@ -1,6 +1,6 @@
 # 华为手机型号汇总
 
-- 汇总范围: 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号
+- 汇总范围: 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](brands/huawei_global_en.md)
 - 华为智选手机汇总: [单独汇总](brands/zhixuan.md)
@@ -187,6 +187,14 @@
 
 `DCO-AL00`: HUAWEI Mate 50 RS 保时捷设计
 
+**HUAWEI Mate 60 (`Barry`):**
+
+`BRA-AL00`: HUAWEI Mate 60
+
+**HUAWEI Mate 60 Pro (`Allen`):**
+
+`ALN-AL00` `ALN-AL80`: HUAWEI Mate 60 Pro
+
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
@@ -207,7 +215,7 @@
 
 `PAL-AL00` `PAL-AL10`: HUAWEI Mate Xs 2
 
-**HUAWEI Mate X3:**
+**HUAWEI Mate X3 (`Alta`):**
 
 `ALT-AL00`: HUAWEI Mate X3
 
@@ -1033,6 +1041,10 @@
 
 `BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
 
+**HUAWEI MatePad (`Bartok`):**
+
+`BTK-W00`: HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
+
 **HUAWEI MatePad 10.8 (`SchumannR`):**
 
 `SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
@@ -1160,6 +1172,12 @@
 `KOB2KZ-W09`: 华为擎云 C5 8 英寸 2023 Wi-Fi 版
 
 `KOB2KZ-AL00`: 华为擎云 C5 8 英寸 2023 全网通版
+
+**华为擎云 C5 (`BartokZ`):**
+
+`BTKZ-W00`: 华为擎云 C5 11.5 英寸 2023 Wi-Fi 版
+
+`BTKZ-AL00`: 华为擎云 C5 11.5 英寸 2023 全网通版
 
 **华为平板 C5e:**
 
@@ -1353,7 +1371,9 @@
 
 **HUAWEI MateBook 14 2023 (`KelvinG`):**
 
-`KLVG-16`: HUAWEI MateBook 14 2023
+`KLVG-16`: HUAWEI MateBook 14 2023 (16GB 内存)
+
+`KLVG-32`: HUAWEI MateBook 14 2023 (32GB 内存)
 
 **HUAWEI MateBook 14s (`HookeD`):**
 
@@ -1369,7 +1389,9 @@
 
 **HUAWEI MateBook 14s 2023 (`HookeFG`):**
 
-`HKFG-16`: HUAWEI MateBook 14s 2023
+`HKFG-16`: HUAWEI MateBook 14s 2023 (16GB 内存)
+
+`HKFG-32`: HUAWEI MateBook 14s 2023 (32GB 内存)
 
 **HUAWEI MateBook 16 (`CurieM`):**
 
@@ -1729,6 +1751,12 @@
 
 `HD75AJMA`: 华为智慧屏 S 75 二代
 
+**华为智慧屏 S Pro:**
+
+`HD55DESU`: 华为智慧屏 S55i Pro
+
+`HD65DESU`: 华为智慧屏 S65i Pro
+
 **华为智慧屏 S Pro (`Kepler`):**
 
 `HD86KEPA`: 华为智慧屏 S86 Pro
@@ -1738,6 +1766,8 @@
 `HD65AJMS`: 华为智慧屏 S3 Pro 65
 
 `HD75AJMS`: 华为智慧屏 S3 Pro 75
+
+`HD86AJMS`: 华为智慧屏 S3 Pro 86
 
 **华为智慧屏 SE 系列:**
 
@@ -1791,6 +1821,16 @@
 
 `HD75QINA`: 华为 Vision 智慧屏 3 75
 
+`HD86QINA`: 华为 Vision 智慧屏 3 86
+
+**华为 Vision 智慧屏 SE3:**
+
+`HD55KUNA`: 华为 Vision 智慧屏 SE3 55
+
+`HD65KUNA`: 华为 Vision 智慧屏 SE3 65
+
+`HD75KUNA`: 华为 Vision 智慧屏 SE3 75
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
@@ -1825,25 +1865,25 @@
 
 `LEO-DLXXU`: PORSCHE DESIGN | HUAWEI Smartwatch
 
-**HUAWEI WATCH 3:**
+**HUAWEI WATCH 3 (`Galileo`):**
 
 `GLL-AL00` `GLL-AL30`: HUAWEI WATCH 3
 
-**HUAWEI WATCH 3 Pro:**
+**HUAWEI WATCH 3 Pro (`GalileoPro`):**
 
 `GLL-AL01`: HUAWEI WATCH 3 Pro
 
-**HUAWEI WATCH 3 Pro new:**
+**HUAWEI WATCH 3 Pro new (`GalileoPro`):**
 
 `GLL-AL08`: HUAWEI WATCH 3 Pro new 时尚款
 
 `GLL-AL09`: HUAWEI WATCH 3 Pro new 尊享款
 
-**HUAWEI WATCH 4:**
+**HUAWEI WATCH 4 (`Archi`):**
 
 `ARC-AL00`: HUAWEI WATCH 4
 
-**HUAWEI WATCH 4 Pro:**
+**HUAWEI WATCH 4 Pro (`Medes`):**
 
 `MDS-AL00` `MDS-AL10`: HUAWEI WATCH 4 Pro
 
@@ -1867,15 +1907,17 @@
 
 `HCT-B19`: HUAWEI WATCH GT 2e
 
-**HUAWEI WATCH GT 2 Pro:**
+**HUAWEI WATCH GT 2 Pro (`Vidar`):**
 
 `VID-B19`: HUAWEI WATCH GT 2 Pro
 
 `VID-B99`: HUAWEI WATCH GT 2 Pro ECG
 
-**HUAWEI WATCH GT 3:**
+**HUAWEI WATCH GT 3 (`Milo`):**
 
 `MIL-B19`: HUAWEI WATCH GT 3 42mm
+
+**HUAWEI WATCH GT 3 (`Jupiter`):**
 
 `JPT-B19`: HUAWEI WATCH GT 3 46mm
 
@@ -1893,7 +1935,7 @@
 
 `ODN-B19`: HUAWEI WATCH GT 3 保时捷设计
 
-**HUAWEI WATCH GT Runner:**
+**HUAWEI WATCH GT Runner (`Runner`):**
 
 `RUN-B19`: HUAWEI WATCH GT Runner
 
@@ -1909,7 +1951,7 @@
 
 `TIA-B19` `TIA-B29`: HUAWEI WATCH FIT
 
-**HUAWEI WATCH FIT 2:**
+**HUAWEI WATCH FIT 2 (`Yoda`):**
 
 `YDA-B09S` `YDA-B19S` `YDA-B19V`: HUAWEI WATCH FIT 2
 
@@ -1917,7 +1959,7 @@
 
 `MLY-B10` `MLY-B11`: HUAWEI WATCH D
 
-**HUAWEI WATCH Buds:**
+**HUAWEI WATCH Buds (`Saga`):**
 
 `SGA-B19`: HUAWEI WATCH Buds
 
@@ -1985,9 +2027,13 @@
 
 `JNS-BX9`: 华为手环 B5
 
-**华为手环 B6:**
+**华为手环 B6 (`Fides`):**
 
 `FDS-B19`: 华为手环 B6
+
+**华为通话手环 B7 (`Fides`):**
+
+`FDS-B49`: 华为通话手环 B7
 
 **华为儿童手表 3 Pro (`Simba`):**
 
@@ -2005,7 +2051,7 @@
 
 `ASN-AL10`: 华为儿童手表 4 Pro
 
-**华为儿童手表 4X:**
+**华为儿童手表 4X (`Nick`):**
 
 `NIK-AL00`: 华为儿童手表 4X
 

@@ -378,6 +378,16 @@
 
 `2210129SG`: Xiaomi 13 Lite 国际版
 
+**[`M12A`] Xiaomi 13T (`aristotle`):**
+
+`2306EPN60G`: Xiaomi 13T 国际版
+
+`2306EPN60R`: Xiaomi 13T 日本版
+
+**[`M12`] Xiaomi 13T Pro (`corot`):**
+
+`23078PND5G`: Xiaomi 13T Pro 国际版
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -464,11 +474,15 @@
 
 **[`K8`] Xiaomi MIX 4 (`odin`):**
 
-`2106118C`: Xiaomi MIX 4 全网通版
+`2106118C`: Xiaomi MIX 4
 
 **[`L18`] Xiaomi MIX Fold 2 (`zizhan`):**
 
 `22061218C`: Xiaomi MIX Fold 2
+
+**[`M18`] Xiaomi MIX Fold 3 (`babylon`):**
+
+`2308CPXD0C`: Xiaomi MIX Fold 3
 
 ## 小米 Max 系列
 
@@ -612,9 +626,15 @@
 
 `23043RP34G`: Xiaomi Pad 6 国际版
 
+`23043RP34I`: Xiaomi Pad 6 印度版
+
 **[`M81`] Xiaomi Pad 6 Pro (`liuqin`):**
 
 `23046RP50C`: Xiaomi Pad 6 Pro
+
+**[`M80`] Xiaomi Pad 6 Max (`yudi`):**
+
+`2307BRPDCC`: Xiaomi Pad 6 Max 14
 
 ## 红米 / Redmi 数字系列
 
@@ -957,6 +977,32 @@
 **[`L19A`] Redmi 11 Prime (`rock`):**
 
 `22071219AI`: Redmi 11 Prime 印度版
+
+**[`M19A`] Redmi 12 (`fire`):**
+
+`23053RN02A`: Redmi 12 国际版
+
+`23053RN02I`: Redmi 12 印度版
+
+`23053RN02L`: Redmi 12 拉美版
+
+**[`M19E`] Redmi 12 (`heat`):**
+
+`23053RN02Y`: Redmi 12 国际版 (NFC)
+
+**[`M19`] Redmi 12 5G (`river`):**
+
+`23077RABDC`: Redmi 12 5G 全网通版
+
+`23076RN8DY`: Redmi 12 5G 国际版 (NFC)
+
+**[`M19`] Redmi 12 5G (`sky`):**
+
+`23076RN4BI`: Redmi 12 5G 印度版
+
+**[`M19`] Redmi 12R (`sky`):**
+
+`23076RA4BC`: Redmi 12R 全网通版
 
 **[`C3T`] Redmi 12C (`earth`):**
 
@@ -1338,7 +1384,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+ 全网通版
 
-**[`L19P`] Redmi Note 11R (`light`):**
+**[`L19`] Redmi Note 11R (`light`):**
 
 `22095RA98C`: Redmi Note 11R 5G 全网通版
 
@@ -1361,6 +1407,10 @@
 `22111317G`: Redmi Note 12 5G 国际版
 
 `22111317I`: Redmi Note 12 5G 印度版
+
+**[`M19`] Redmi Note 12R (`sky`):**
+
+`23076RA4BC`: Redmi Note 12R 全网通版
 
 **[`K7SR`] Redmi Note 12S (`ocean`):**
 
@@ -1528,6 +1578,10 @@
 
 `22122RK93C`: Redmi K60E 全网通版
 
+**[`M12`] Redmi K60 至尊版 (`corot`):**
+
+`23078RKD5C`: Redmi K60 至尊版 全网通版
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
@@ -1594,6 +1648,14 @@
 
 `22081283G`: Redmi Pad 国际版
 
+**[`M84`] Redmi Pad SE (`xun`):**
+
+`23073RPBFC`: Redmi Pad SE 国行版
+
+`23073RPBFG`: Redmi Pad SE 国际版
+
+`23073RPBFL`: Redmi Pad SE 拉美版
+
 ## POCO 手机
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -1633,8 +1695,6 @@
 **[`M11A`] POCO F5 Pro (`mondrian`):**
 
 `23013PC75G`: POCO F5 Pro 国际版
-
-`23013PC75I`: POCO F5 Pro 印度版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1749,6 +1809,10 @@
 **[`K7BP`] POCO M5s (`rosemary`):**
 
 `2207117BPG`: POCO M5s 国际版
+
+**[`M19`] POCO M6 Pro 5G (`sky`):**
+
+`23076PC4BI`: POCO M6 Pro 5G 印度版
 
 **[`C3M`] POCO C3 (`angelicain`):**
 

@@ -225,6 +225,24 @@
 
 `CPH2505`: OPPO Reno8 T 5G
 
+**OPPO Reno9 A:**
+
+`CPH2523`: OPPO Reno9 A
+
+`A301OP`: OPPO Reno9 A (SoftBank)
+
+**OPPO Reno10:**
+
+`CPH2531`: OPPO Reno10 5G
+
+**OPPO Reno10 Pro:**
+
+`CPH2525`: OPPO Reno10 Pro 5G
+
+**OPPO Reno10 Pro+:**
+
+`CPH2521`: OPPO Reno10 Pro+ 5G
+
 ## F series
 
 **OPPO F7:**
@@ -493,6 +511,8 @@
 
 **OPPO A78:**
 
+`CPH2565`: OPPO A78
+
 `CPH2483` `CPH2495`: OPPO A78 5G
 
 **OPPO A91:**
@@ -542,6 +562,10 @@
 **OPPO Pad Air:**
 
 `OPD2102A`: OPPO Pad Air
+
+**OPPO Pad 2:**
+
+`OPD2202`: OPPO Pad 2
 
 ## Watch series
 

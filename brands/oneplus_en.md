@@ -257,6 +257,10 @@
 
 `PHP110`: OnePlus Ace 2V China
 
+**OnePlus Ace 2 Pro:**
+
+`PJA110`: OnePlus Ace 2 Pro China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
@@ -296,6 +300,10 @@
 `CPH2381`: OnePlus Nord CE 2 Lite India
 
 `CPH2409`: OnePlus Nord CE 2 Lite EU / Global
+
+**OnePlus Nord CE 3:**
+
+`CPH2569`: OnePlus Nord CE 3 India
 
 **OnePlus Nord CE 3 Lite:**
 

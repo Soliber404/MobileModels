@@ -262,6 +262,10 @@
 
 `PHP110`: 一加 Ace 2V 全网通版
 
+**一加 Ace 2 Pro:**
+
+`PJA110`: 一加 Ace 2 Pro 全网通版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
@@ -301,6 +305,10 @@
 `CPH2381`: OnePlus Nord CE 2 Lite 印度版
 
 `CPH2409`: OnePlus Nord CE 2 Lite 欧洲版/国际版
+
+**OnePlus Nord CE 3:**
+
+`CPH2569`: OnePlus Nord CE 3 印度版
 
 **OnePlus Nord CE 3 Lite:**
 

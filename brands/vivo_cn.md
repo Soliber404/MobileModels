@@ -516,13 +516,13 @@
 
 `V2166BA`: vivo Y77e 5G / vivo Y77e (t1 版) 5G
 
-**vivo Y78 / vivo Y78m (`PD2278`):**
+**vivo Y77t / vivo Y78 / vivo Y78m (`PD2278`):**
 
-`V2278A`: vivo Y78 5G / vivo Y78m 5G
+`V2278A`: vivo Y77t 5G / vivo Y78 5G / vivo Y78m 5G
 
-**vivo Y78+ (`PD2271`):**
+**vivo Y78+ / vivo Y78+ (t1) (`PD2271`):**
 
-`V2271A`: vivo Y78+ 5G
+`V2271A`: vivo Y78+ 5G / vivo Y78+ (t1) 5G
 
 **vivo Y81 (`PD1732`):**
 
@@ -740,6 +740,10 @@
 
 `V2254A`: iQOO 11 Pro
 
+**iQOO 11S (`PD2304`):**
+
+`V2304A`: iQOO 11S
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
@@ -850,6 +854,14 @@
 
 `V2230EA`: iQOO Z7i
 
+**iQOO Z8 (`PD2314`):**
+
+`V2314A`: iQOO Z8
+
+**iQOO Z8x (`PD2312`):**
+
+`V2312A`: iQOO Z8x
+
 ## iQOO U 系列
 
 **iQOO U1 (`PD2023`):**
@@ -893,6 +905,10 @@
 **vivo Pad2 (`DPD2221`):**
 
 `PA2373`: vivo Pad2
+
+**vivo Pad Air (`DPD2305`):**
+
+`PA2353`: vivo Pad Air
 
 **iQOO Pad (`DPD2307`):**
 

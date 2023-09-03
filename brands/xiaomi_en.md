@@ -375,6 +375,16 @@
 
 `2210129SG`: Xiaomi 13 Lite Global
 
+**[`M12A`] Xiaomi 13T (`aristotle`):**
+
+`2306EPN60G`: Xiaomi 13T Global
+
+`2306EPN60R`: Xiaomi 13T Japan
+
+**[`M12`] Xiaomi 13T Pro (`corot`):**
+
+`23078PND5G`: Xiaomi 13T Pro Global
+
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -457,7 +467,11 @@
 
 **[`L18`] Xiaomi MIX Fold 2 (`zizhan`):**
 
-`22061218C`: Xiaomi MIX Fold 2
+`22061218C`: Xiaomi MIX Fold 2 China
+
+**[`M18`] Xiaomi MIX Fold 3 (`babylon`):**
+
+`2308CPXD0C`: Xiaomi MIX Fold 3 China
 
 **[`B3`] Mi Max (`hydrogen`):**
 
@@ -883,6 +897,32 @@
 
 `22071219AI`: Redmi 11 Prime India
 
+**[`M19A`] Redmi 12 (`fire`):**
+
+`23053RN02A`: Redmi 12 Global
+
+`23053RN02I`: Redmi 12 India
+
+`23053RN02L`: Redmi 12 Latin America
+
+**[`M19E`] Redmi 12 (`heat`):**
+
+`23053RN02Y`: Redmi 12 Global (NFC)
+
+**[`M19`] Redmi 12 5G (`river`):**
+
+`23076RN8DY`: Redmi 12 5G Global (NFC)
+
+`23077RABDC`: Redmi 12 5G China
+
+**[`M19`] Redmi 12 5G (`sky`):**
+
+`23076RN4BI`: Redmi 12 5G India
+
+**[`M19`] Redmi 12R (`sky`):**
+
+`23076RA4BC`: Redmi 12R China
+
 **[`C3T`] Redmi 12C (`earth`):**
 
 `22120RN86G`: Redmi 12C Global
@@ -1255,7 +1295,7 @@
 
 `22041216UC`: Redmi Note 11T Pro+ 5G China
 
-**[`L19P`] Redmi Note 11R (`light`):**
+**[`L19`] Redmi Note 11R (`light`):**
 
 `22095RA98C`: Redmi Note 11R 5G China
 
@@ -1278,6 +1318,10 @@
 `22111317I`: Redmi Note 12 5G India
 
 `22101317C`: Redmi Note 12 5G China / Redmi Note 12R Pro China
+
+**[`M19`] Redmi Note 12R (`sky`):**
+
+`23076RA4BC`: Redmi Note 12R China
 
 **[`K7SR`] Redmi Note 12S (`ocean`):**
 
@@ -1441,6 +1485,10 @@
 
 `22122RK93C`: Redmi K60E China
 
+**[`M12`] Redmi K60 Ultra (`corot`):**
+
+`23078RKD5C`: Redmi K60 Ultra China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
@@ -1536,8 +1584,6 @@
 **[`M11A`] POCO F5 Pro (`mondrian`):**
 
 `23013PC75G`: POCO F5 Pro Global
-
-`23013PC75I`: POCO F5 Pro India
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1653,6 +1699,10 @@
 
 `2207117BPG`: POCO M5s Global
 
+**[`M19`] POCO M6 Pro 5G (`sky`):**
+
+`23076PC4BI`: POCO M6 Pro 5G India
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 India
@@ -1715,31 +1765,45 @@
 
 **[`K81A`] Xiaomi Pad 5 Pro (`elish`):**
 
-`M2105K81AC`: Xiaomi Pad 5 Pro Wi-Fi
+`M2105K81AC`: Xiaomi Pad 5 Pro Wi-Fi China
 
 **[`K81`] Xiaomi Pad 5 Pro 5G (`enuma`):**
 
-`M2105K81C`: Xiaomi Pad 5 Pro 5G
+`M2105K81C`: Xiaomi Pad 5 Pro 5G China
 
 **[`L81A`] Xiaomi Pad 5 Pro 12.4 (`dagu`):**
 
-`22081281AC`: Xiaomi Pad 5 Pro 12.4
+`22081281AC`: Xiaomi Pad 5 Pro 12.4 China
 
 **[`M82`] Xiaomi Pad 6 (`pipa`):**
 
 `23043RP34G`: Xiaomi Pad 6 Global
 
+`23043RP34I`: Xiaomi Pad 6 India
+
 `23043RP34C`: Xiaomi Pad 6 China
 
 **[`M81`] Xiaomi Pad 6 Pro (`liuqin`):**
 
-`23046RP50C`: Xiaomi Pad 6 Pro
+`23046RP50C`: Xiaomi Pad 6 Pro China
+
+**[`M80`] Xiaomi Pad 6 Max 14 (`yudi`):**
+
+`2307BRPDCC`: Xiaomi Pad 6 Max 14 China
 
 **[`L83`] Redmi Pad (`yunluo`):**
 
 `22081283G`: Redmi Pad Global
 
 `22081283C`: Redmi Pad China
+
+**[`M84`] Redmi Pad SE (`xun`):**
+
+`23073RPBFG`: Redmi Pad SE Global
+
+`23073RPBFC`: Redmi Pad SE China
+
+`23073RPBFL`: Redmi Pad SE Latin America
 
 ## Others
 

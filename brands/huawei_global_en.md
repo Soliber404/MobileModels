@@ -127,6 +127,10 @@
 
 `DCO-LX9`: HUAWEI Mate 50 Pro
 
+**HUAWEI Mate 60 Pro (`Allen`):**
+
+`ALN-LX9`: HUAWEI Mate 60 Pro
+
 **HUAWEI Mate Xs (`Tahiti`):**
 
 `TAH-N29m`: HUAWEI Mate Xs Dual SIM
@@ -135,7 +139,7 @@
 
 `PAL-LX9` `PAL-L29`: HUAWEI Mate Xs 2
 
-**HUAWEI Mate X3:**
+**HUAWEI Mate X3 (`Alta`):**
 
 `ALT-L29`: HUAWEI Mate X3
 
@@ -387,21 +391,23 @@
 
 **HUAWEI nova 10 (`Nicole`):**
 
-`NCO-LX1`: HUAWEI nova 10 Dual SIM
-
-`NCO-LX3`: HUAWEI nova 10 Single SIM
+`NCO-LX1` `NCO-LX3`: HUAWEI nova 10
 
 **HUAWEI nova 10 Pro (`Gloria`):**
 
-`GLA-LX1`: HUAWEI nova 10 Pro Dual SIM
-
-`GLA-LX3`: HUAWEI nova 10 Pro Single SIM
+`GLA-LX1` `GLA-LX3`: HUAWEI nova 10 Pro
 
 **HUAWEI nova 10 SE (`Bonnie`):**
 
-`BNE-LX1`: HUAWEI nova 10 SE Dual SIM
+`BNE-LX1` `BNE-LX3`: HUAWEI nova 10 SE
 
-`BNE-LX3`: HUAWEI nova 10 SE Single SIM
+**HUAWEI nova 11 (`Fiona`):**
+
+`FOA-LX9`: HUAWEI nova 11
+
+**HUAWEI nova 11 Pro (`Giona`):**
+
+`GOA-LX9`: HUAWEI nova 11 Pro
 
 **HUAWEI nova 11i:**
 
@@ -411,13 +417,13 @@
 
 `WKG-LX9`: HUAWEI nova Y60
 
-**HUAWEI nova Y61:**
+**HUAWEI nova Y61 (`Eevee`):**
 
 `EVE-LX9` `EVE-LX9N` `EVE-LX3`: HUAWEI nova Y61
 
-**HUAWEI nova Y70 (`Mega`):**
+**HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71 (`Mega`):**
 
-`MGA-LX9` `MGA-LX9N`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus
+`MGA-LX9` `MGA-LX9N` `MGA-LX3`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 
 **HUAWEI nova Y90:**
 
@@ -619,6 +625,12 @@
 
 `BAH4-L09`: HUAWEI MatePad 10.4 2022 LTE
 
+**HUAWEI MatePad (`Bartok`):**
+
+`BTK-W09`: HUAWEI MatePad 11.5 Wi-Fi
+
+`BTK-AL09`: HUAWEI MatePad 11.5 LTE
+
 **HUAWEI MatePad 11 (`Debussy`):**
 
 `DBY-W09`: HUAWEI MatePad 11 Wi-Fi
@@ -714,3 +726,23 @@
 `AGS5-W09`: HUAWEI MatePad SE 10.4 Wi-Fi
 
 `AGS5-L09`: HUAWEI MatePad SE 10.4 LTE
+
+**HUAWEI MatePad C3 (`Kobe2K`):**
+
+`KOB2K-W09`: HUAWEI MatePad C3 8 Wi-Fi
+
+`KOB2K-L09`: HUAWEI MatePad C3 8 LTE
+
+**HUAWEI MatePad C3 (`AgassiRK`):**
+
+`AGRK-W09`: HUAWEI MatePad C3 9.7 Wi-Fi
+
+`AGRK-L09`: HUAWEI MatePad C3 9.7 LTE
+
+**HUAWEI MatePad C5e (`AgassiRK`):**
+
+`AGS3K-L09`: HUAWEI MatePad C5e LTE
+
+**HUAWEI MatePad C7 (`Debussy`):**
+
+`DBY-W09`: HUAWEI MatePad C7 Wi-Fi

@@ -1,6 +1,6 @@
 # 荣耀手机型号汇总
 
-- 汇总范围: 荣耀手机/平板/笔记本电脑/智慧屏
+- 汇总范围: 荣耀手机/平板/笔记本电脑/智慧屏/穿戴设备
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](brands/honor_global_en.md)
 
@@ -354,6 +354,14 @@
 
 `PGT-AN20`: 荣耀 Magic5 至臻版 5G
 
+**荣耀 Magic V2:**
+
+`VER-AN10`: 荣耀 Magic V2 5G
+
+**荣耀 Magic V2 至臻版:**
+
+`VER-AN10`: 荣耀 Magic V2 至臻版 5G
+
 ## 荣耀 X 系列
 
 **荣耀 3X:**
@@ -482,7 +490,11 @@
 
 `ADT-AN00`: 荣耀 X40 GT 5G
 
-**荣耀 X50i:**
+**荣耀 X50 (`Ali`):**
+
+`ALI-AN00`: 荣耀 X50 5G
+
+**荣耀 X50i (`Cartier`):**
 
 `CRT-AN00`: 荣耀 X50i 5G
 
@@ -756,9 +768,9 @@
 
 `CMA-AN00`: 荣耀畅玩 30 Plus 5G
 
-**荣耀畅玩 40:**
+**荣耀畅玩 40 / 荣耀畅玩 40C / 荣耀畅玩 40S (`Woody`):**
 
-`WDY-AN00`: 荣耀畅玩 40 5G
+`WDY-AN00`: 荣耀畅玩 40 5G / 荣耀畅玩 40C 5G / 荣耀畅玩 40S 5G
 
 **荣耀畅玩 40 Plus (`Rocky`):**
 
@@ -850,6 +862,10 @@
 
 `AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
 
+**荣耀平板 X8 Pro (`Eileen`):**
+
+`ELN-W09`: 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
+
 **荣耀平板 8 (`Hendry`):**
 
 `HEY-W09`: 荣耀平板 8 12 英寸 Wi-Fi 版
@@ -861,6 +877,10 @@
 **荣耀平板 V8 Pro:**
 
 `ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
+
+**荣耀平板 MagicPad:**
+
+`GDI-W09`: 荣耀平板 MagicPad 13 英寸 Wi-Fi 版
 
 **荣耀 Waterplay (`Haydn`):**
 
@@ -1034,6 +1054,8 @@
 
 `GLO-G561`: 荣耀 MagicBook 14 2023 i5 (16GB+1TB)
 
+`GLO-G52`: 荣耀 MagicBook 14 2023 i5 (32GB+1TB)
+
 **荣耀 MagicBook 14 Pro 2023:**
 
 `GLO-G561`: 荣耀 MagicBook 14 Pro 2023 i5 (16GB+1TB)
@@ -1178,6 +1200,8 @@
 
 `FRI-G561`: 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+1TB)
 
+`FRI-H76`: 荣耀 MagicBook X 14 Pro 2023 R7 (16GB+512GB)
+
 **荣耀 MagicBook X 15 (`BohrBR`):**
 
 `BBR-WAI9`: 荣耀 MagicBook X 15 i3
@@ -1194,11 +1218,19 @@
 
 `BRN-F56`: 荣耀 MagicBook X 16 2022 i5
 
+**荣耀 MagicBook X 16 2023:**
+
+`BRN-F56`: 荣耀 MagicBook X 16 2023 i5 (16GB+512GB)
+
+`BRN-F561`: 荣耀 MagicBook X 16 2023 i5 (16GB+1TB)
+
 **荣耀 MagicBook X 16 Pro 2023:**
 
 `BRN-G56`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+512GB)
 
 `BRN-G561`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+1TB)
+
+`BRN-H76`: 荣耀 MagicBook X 16 Pro 2023 R7 (16GB+512GB)
 
 **荣耀 MagicBook Z3 14 2023:**
 
@@ -1229,6 +1261,12 @@
 `OSCA-550`: 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
 
 `OSCA-550X`: 荣耀智慧屏 PRO 55 英寸 (4GB+64GB)
+
+**荣耀智慧屏 5:**
+
+`HN65TAG`: 荣耀智慧屏 5 65 英寸
+
+`HN75TAG`: 荣耀智慧屏 5 75 英寸
 
 **荣耀智慧屏 X1 (`Locke`):**
 
@@ -1270,6 +1308,10 @@
 
 `HN75BYRA`: 荣耀智慧屏 X3i 75 英寸
 
+**荣耀智慧屏 Z3:**
+
+`HN43DNTH`: 荣耀智慧屏 Z3 43 英寸
+
 ## 荣耀穿戴设备
 
 **荣耀手表魔法系列:**
@@ -1305,6 +1347,10 @@
 **荣耀手表 GS 3i:**
 
 `MNS-B39`: 荣耀手表 GS 3i
+
+**荣耀手表 4:**
+
+`TUM-L19`: 荣耀手表 4
 
 **荣耀手环 3:**
 

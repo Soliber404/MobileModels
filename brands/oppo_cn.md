@@ -68,6 +68,10 @@
 
 `PGT110`: OPPO Find N2 Flip
 
+**OPPO Find N3 Flip:**
+
+`PHT110`: OPPO Find N3 Flip
+
 ## Reno 系列
 
 **OPPO Reno:**
@@ -496,6 +500,10 @@
 
 `PGGM10`: OPPO K10x
 
+**OPPO K11:**
+
+`PJC110`: OPPO K11
+
 **OPPO K11x:**
 
 `PHF110`: OPPO K11x
@@ -547,3 +555,7 @@
 `OWW211`: OPPO Watch 3 Pro
 
 `OWW213`: OPPO Watch 3 SE
+
+**OPPO Watch 4 Pro:**
+
+`OWW221`: OPPO Watch 4 Pro
