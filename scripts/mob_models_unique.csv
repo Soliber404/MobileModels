@@ -1,0 +1,3683 @@
+model,ver_name,brand
+1501-A02,#全网通版,360
+1501-M02,#移动版,360
+1503-A01,#全网通版,360
+1503-M02,#移动版,360
+1505-A01,#,360
+1505-A02,#,360
+1509-A00,#全网通版,360
+1509-M02,#移动版,360
+1515-A01,#,360
+1603-A02,#,360
+1603-A03,#,360
+1605-A01,#全网通版,360
+1605-A02,#移动版,360
+1607-A01,#,360
+1701-M01,#,360
+1703-M01,#,360
+1707-A01,#,360
+1711-A01,#,360
+1713-A01,#,360
+1801-A01,#,360
+1801-T0,#,coolpad
+1802-T0,#,coolpad
+1803-A01,#,360
+1807-A01,#,360
+1809-A01,#,360
+1812-A0,#,coolpad
+1821-T0,#,coolpad
+1822-C0,#,coolpad
+1831-A0,#,coolpad
+1832-A0,#,coolpad
+1841-C0,#,coolpad
+1871-A0,#,coolpad
+1872-A0,#,coolpad
+1873-A0,#,coolpad
+2012051,#联通版 #WCDMA,xiaomi
+2012052,#青春版 #Lite,xiaomi
+2012053,#电信版 #CDMA,xiaomi
+2012061,#联通版 #WCDMA,xiaomi
+2012062,#电信版 #CDMA,xiaomi
+2012121,#联通版 #,xiaomi
+2013012,#联通版 #WCDMA,xiaomi
+2013021,#电信版 #CDMA,xiaomi
+2013022,#移动版 #TD-SCDMA,xiaomi
+2013023,#联通版 #WCDMA,xiaomi
+2013028,#电信版 #CDMA,xiaomi
+2013029,#联通版 #WCDMA,xiaomi
+2013061,#移动版 #TD-SCDMA,xiaomi
+2013062,#联通版 #WCDMA,xiaomi
+2013063,#电信版 #CDMA,xiaomi
+2013121,#联通 3G 增强版 #WCDMA (2GB RAM),xiaomi
+2013122,#移动 3G 增强版 #TD-SCDMA (2GB RAM),xiaomi
+2014011,#移动 3G 版 #TD-SCDMA,xiaomi
+2014017,#移动 3G 标准版 #TD-SCDMA (1GB RAM),xiaomi
+2014018,#联通 3G 标准版 #WCDMA (1GB RAM),xiaomi
+2014021,#联通 4G 增强版 #China Unicom,xiaomi
+2014022,#移动 4G 增强版 #China Mobile,xiaomi
+2014055,#增强版 #Prime,xiaomi
+2014112,#移动合约版 #China Mobile,xiaomi
+2014215,#联通 3G 版 #WCDMA,xiaomi
+2014216,#移动 4G 版 #LTE China Mobile,xiaomi
+2014218,#电信 3G 版 #CDMA,xiaomi
+2014501,#移动 4G 版 #4G China Mobile,xiaomi
+2014502,#标准版 #,xiaomi
+2014512,#增强版 #Prime,xiaomi
+2014616,#双网通版 #China,xiaomi
+2014617,#联通合约版 #China Unicom,xiaomi
+2014618,#移动合约版 #China Mobile,xiaomi
+2014619,#全网通版 #China,xiaomi
+2014712,#4G 印度版 #India,xiaomi
+2014715,#4G 国际版 #Global,xiaomi
+2014716,#电信 4G 版 #LTE China Telecom,xiaomi
+2014719,#联通 4G 版 #LTE China Unicom,xiaomi
+2014726,#电信 4G 合约版 #LTE China Telecom,xiaomi
+2014811,#联通版 #China Unicom,xiaomi
+2014812,#电信版 #China Telecom,xiaomi
+2014813,#移动版 #China Mobile,xiaomi
+2014816,#高配版 #Prime (Snapdragon 410),xiaomi
+2014817,#国际版 #Global,xiaomi
+2014818,#印度版 #India,xiaomi
+2014819,#巴西版 #Brazil,xiaomi
+2014821,#电信合约版 #China Telecom,xiaomi
+2014910,#电信 4G 双卡合约版 #China Telecom,xiaomi
+2014911,#移动 4G 双卡合约版 #China Mobile,xiaomi
+2014912,#联通 4G 双卡版 #China Unicom 1#India,xiaomi
+2014915,#移动 4G 双卡版 #China Mobile,xiaomi
+2014916,#电信 4G 双卡版 #China Telecom,xiaomi
+2015011,#国际版 #Global,xiaomi
+2015015,#国际版 #Global,xiaomi
+2015021,#双网通版 #,xiaomi
+2015022,#全网通版 #,xiaomi
+2015051,#双网通版 #16GB,xiaomi
+2015052,#移动版 #(16GB) China Mobile,xiaomi
+2015055,#移动合约版 #(16GB) China Mobile,xiaomi
+2015056,#移动合约高配版 #(32GB) China Mobile,xiaomi
+2015105,#国际版 #(32GB) Global,xiaomi
+2015112,#全网通版 #(Qualcomm) China,xiaomi
+2015115,#全网通版 #(Qualcomm) China,xiaomi
+2015116,#国际版 #(Qualcomm) Global,xiaomi
+2015161,#台湾特制版 #(Special Edition) Taiwan,xiaomi
+2015201,#标准版 #(32GB) China,xiaomi
+2015211,#全网通版 #China,xiaomi
+2015212,#移动 4G+ 版 #China Mobile,xiaomi
+2015213,#全网通版 (全球频段) #Global,xiaomi
+2015501,#移动合约版 #China Mobile,xiaomi
+2015561,#全网通版 #,xiaomi
+2015562,#移动合约版 #China Mobile,xiaomi
+2015611,#移动合约版 #(Mediatek) China Mobile,xiaomi
+2015617,#双网通版 #Mediatek,xiaomi
+2015628,#高配版 / 尊享版 #(64GB & 128GB) China,xiaomi
+2015711,#全网通版 #,xiaomi
+2015712,#双网通高配版 #32GB,xiaomi
+2015810,#联通合约 标准版 #China Unicom,xiaomi
+2015811,#全网通 标准版 #China,xiaomi
+2015812,#移动合约 标准版 #China Mobile,xiaomi
+2015815,#全网通 标准版 #China,xiaomi
+2015816,#国际版 #Global,xiaomi
+2015817,#全网通 高配版 #Prime China,xiaomi
+2015818,#联通合约 高配版 #Prime China Unicom,xiaomi
+2015819,#全网通 高配版 #Prime China,xiaomi
+2015911,#全网通版 #,xiaomi
+2016001,#标准版 全网通版 #China,xiaomi
+2016002,#标准版 国际版 #Global,xiaomi
+2016007,#高配版 #,xiaomi
+2016020,#标准版 #32GB,xiaomi
+2016021,#高配版 / 尊享版 #64GB & 128GB,xiaomi
+2016030,#全网通版 #China,xiaomi
+2016031,#国际版 #Global,xiaomi
+2016032,#Prime 印度版 #Prime India,xiaomi
+2016033,#全网通版 (联通定制) #China Unicom,xiaomi
+2016035,#移动合约版 #China Mobile,xiaomi
+2016036,#全网通版 #,xiaomi
+2016037,#印度版 #India,xiaomi
+2016050,#全网通版 #Mediatek,xiaomi
+2016051,#移动版 #(Mediatek) China Mobile,xiaomi
+2016060,#高配版 #Pro,xiaomi
+2016070,#全网通版 #,xiaomi
+2016080,#全网通版 #,xiaomi
+2016089,#移动版 #,xiaomi
+2016090,#标准版 #,xiaomi
+2016100,#国际版 #高通 国际版 #(Qualcomm) Global,xiaomi
+2016101,#高通 全网通版 1#(Qualcomm) China,xiaomi
+2016102,#国际版 #高通 国际版 #(Qualcomm) Global,xiaomi
+2016111,#全网通版 #China,xiaomi
+2016112,#移动 4G+ 版 #China Mobile,xiaomi
+2016116,#印度版 #India,xiaomi
+2016117,#国际版 #Global,xiaomi
+2016130,#高通 移动 4G+ 版 1#(Qualcomm) China Mobile,xiaomi
+21061110AG,#国际版 #Global,xiaomi
+21061119AG,#国际版 #Global,xiaomi
+21061119AL,#拉美版 #Latin America,xiaomi
+21061119BI,#印度版 #India,xiaomi
+21061119DG,#国际版 (NFC) #Global (NFC),xiaomi
+2106118C,# #China,xiaomi
+2107113SG,#国际版 #Global,xiaomi
+2107113SI,#印度版 #India,xiaomi
+2107113SR,#日本版 #Japan,xiaomi
+2107119DC,#全网通版 Mi 11 LE China,xiaomi
+21081111RG,#国际版 #Global,xiaomi
+2109106A1I,#印度版 #India,xiaomi
+21091116AC,#全网通版 #China,xiaomi
+21091116AG,#国际版 #Global,xiaomi
+21091116AI,1#5G 印度版 1#5G India,xiaomi
+21091116C,#全网通版 #5G China,xiaomi
+21091116I,#印度版 #India,xiaomi
+21091116UC,#全网通版 #5G China,xiaomi
+21091116UG,#5G 国际版 #5G Global,xiaomi
+21091116UI,#印度版 #India,xiaomi
+2109119BC,#全网通版 #全网通版 #China #China,xiaomi
+2109119DG,1#国际版 #Global,xiaomi
+2109119DI,1#NE 5G 印度版 #NE 5G India,xiaomi
+211033MI,#印度版 #India,xiaomi
+21121119SC,#全网通版 #China,xiaomi
+21121119SG,#国际版 #Global,xiaomi
+21121119VL,#拉美版 #Latin America,xiaomi
+21121210C,#全网通版 #China,xiaomi
+21121210G,POCO F4 GT 国际版 POCO F4 GT Global,xiaomi
+21121210I,POCO F4 GT 印度版 POCO F4 GT India,xiaomi
+2112123AC,#全网通版 #China,xiaomi
+2112123AG,#国际版 #Global,xiaomi
+22011119TI,#印度版 #India,xiaomi
+22011119UY,#国际版 (NFC) #Global (NFC),xiaomi
+2201116PG,#国际版 #Global,xiaomi
+2201116PI,#印度版 #India,xiaomi
+2201116SC,#全网通版 1#5G China,xiaomi
+2201116SG,1#国际版 #Global,xiaomi
+2201116SI,#印度版 #India,xiaomi
+2201116SR,1#日本版 #Japan,xiaomi
+2201116TG,#国际版 #Global,xiaomi
+2201116TI,#印度版 #India,xiaomi
+2201117PG,#国际版 #Global,xiaomi
+2201117PI,#印度版 #India,xiaomi
+2201117SG,#国际版 #Global,xiaomi
+2201117SI,#印度版 #India,xiaomi
+2201117SL,#拉美版 #Latin America,xiaomi
+2201117SY,#国际版 (NFC) #Global (NFC),xiaomi
+2201117TG,#国际版 #Global,xiaomi
+2201117TI,#印度版 #India,xiaomi
+2201117TL,#拉美版 #Latin America,xiaomi
+2201117TY,#国际版 (NFC) #Global (NFC),xiaomi
+22011211C,#全网通版 #China,xiaomi
+2201122C,#全网通版 #China,xiaomi
+2201122G,#国际版 #Global,xiaomi
+2201123C,#全网通版 #China,xiaomi
+2201123G,#国际版 #Global,xiaomi
+22021119KR,#日本版 (SIM Free) #Japan (SIM Free),xiaomi
+22021211RC,#全网通版 #China,xiaomi
+22021211RG,#国际版 #Global,xiaomi
+22021211RI,#印度版 #India,xiaomi
+220233L2C,#全网通版 #China,xiaomi
+220233L2G,#国际版 #Global,xiaomi
+220233L2I,#印度版 #Sport 印度版 #India #Sport India,xiaomi
+22031116AI,#印度版 #India,xiaomi
+22031116BG,#国际版 #Global,xiaomi
+2203121C,#全网通版 #China,xiaomi
+2203129G,#国际版 #Global,xiaomi
+2203129I,#印度版 #India,xiaomi
+220333QAG,#国际版 #Global,xiaomi
+220333QBI,#印度版 1#印度版 #India #Power India,xiaomi
+220333QL,#拉美版 #Latin America,xiaomi
+220333QNY,#国际版 (NFC) #Global (NFC),xiaomi
+220333QPG,#国际版 #Global,xiaomi
+220333QPI,#印度版 #India,xiaomi
+22041211AC,#全网通版 #China,xiaomi
+22041216C,#全网通版 #5G China,xiaomi
+22041216G,#国际版 #Global,xiaomi
+22041216I,#印度版 #India,xiaomi
+22041216UC,#全网通版 #5G China,xiaomi
+22041216UG,#国际版 #Global,xiaomi
+22041219C,#全网通版 #China,xiaomi
+22041219G,#国际版 #Global,xiaomi
+22041219I,1#印度版 1#India,xiaomi
+22041219NY,#国际版 (NFC) #Global (NFC),xiaomi
+22041219PG,#国际版 #Global,xiaomi
+22041219PI,#印度版 #India,xiaomi
+22061218C,# #China,xiaomi
+2206122SC,#全网通版 #China,xiaomi
+2206123SC,#全网通版 #China,xiaomi
+2207117BPG,#国际版 #Global,xiaomi
+22071212AG,#国际版 #Global,xiaomi
+22071219AI,#印度版 #India,xiaomi
+22071219CG,#国际版 #Global,xiaomi
+22071219CI,#印度版 #India,xiaomi
+2207122MC,#全网通版 #China,xiaomi
+220733SFG,#国际版 #Global,xiaomi
+220733SFH,#印度版 #India,xiaomi
+220733SG,#国际版 #Global,xiaomi
+220733SH,#印度版 #India,xiaomi
+220733SI,#印度版 #India,xiaomi
+220733SL,#拉美版 #Latin America,xiaomi
+220733SPH,#印度版 #India,xiaomi
+220733SPI,#印度版 #India,xiaomi
+220743FI,#印度版 #India,xiaomi
+22081212C,#全网通版 #China,xiaomi
+22081212R,#日本版 (SIM Free) #Japan (SIM Free),xiaomi
+22081212UG,#国际版 #Global,xiaomi
+22087RA4DI,#印度版 #India,xiaomi
+2209116AG,#国际版 #Global,xiaomi
+2209129SC,#全网通版 #China,xiaomi
+22095RA98C,#5G 全网通版 #5G China,xiaomi
+2210129SG,#国际版 #Global,xiaomi
+22101316C,#全网通版 #China,xiaomi
+22101316G,#5G 国际版 #Global,xiaomi
+22101316I,#5G 印度版 #India,xiaomi
+22101316UC,#全网通版 #China,xiaomi
+22101316UCP,#全网通版 #China,xiaomi
+22101316UG,#5G 国际版 #Global,xiaomi
+22101316UP,#5G 印度版 #India,xiaomi
+22101317C,#全网通版 1#全网通版 #China 1#China,xiaomi
+22101320C,#全网通版 #China,xiaomi
+22101320G,#国际版 #Global,xiaomi
+22101320I,#印度版 #India,xiaomi
+2210132C,#全网通版 #China,xiaomi
+2210132G,#国际版 #Global,xiaomi
+22111317G,#国际版 #Global,xiaomi
+22111317I,#印度版 #India,xiaomi
+22111317PG,#国际版 #Global,xiaomi
+22111317PI,#印度版 #India,xiaomi
+2211133C,#全网通版 #China,xiaomi
+2211133G,#国际版 #Global,xiaomi
+22120RN86C,#全网通版 #China,xiaomi
+22120RN86G,#国际版 #Global,xiaomi
+22120RN86H,#印度版 #India,xiaomi
+22120RN86I,#印度版 #India,xiaomi
+22122RK93C,#全网通版 #China,xiaomi
+22126RN91Y,#国际版 (NFC) #Global (NFC),xiaomi
+22127PC95G,#国际版 #Global,xiaomi
+22127PC95H,#印度版 #India,xiaomi
+22127PC95I,#印度版 #India,xiaomi
+22127RK46C,#全网通版 #China,xiaomi
+2212ARNC4L,#拉美版 #Latin America,xiaomi
+22200414R,#日本版 (SIM Free) #Japan (SIM Free),xiaomi
+23013PC75G,#国际版 #Global,xiaomi
+23013RK75C,#全网通版 #China,xiaomi
+23021RAA2Y,#国际版 (NFC) #Global (NFC),xiaomi
+23021RAAEG,#国际版 #Global,xiaomi
+23026RN54G,#国际版 #Global,xiaomi
+23027RAD4I,#印度版 #India,xiaomi
+23028RA60L,#拉美版 #Latin America,xiaomi
+23028RN4DG,#国际版 #Global,xiaomi
+23028RN4DH,#印度版 #India,xiaomi
+23028RN4DI,#印度版 #India,xiaomi
+23028RNCAG,#国际版 #Global,xiaomi
+23028RNCAH,#印度版 #India,xiaomi
+23028RNCAI,#印度版 #India,xiaomi
+2302EPCC4H,#印度版 #India,xiaomi
+2302EPCC4I,#印度版 #India,xiaomi
+23030RAC7Y,#国际版 (NFC) #Global (NFC),xiaomi
+2303CRA44A,#国际版 #Global,xiaomi
+2303ERA42L,#拉美版 #Latin America,xiaomi
+23046PNC9C,#全网通版 #China,xiaomi
+23049PCD8G,#国际版 #Global,xiaomi
+23049PCD8I,#印度版 #India,xiaomi
+23049RAD8C,#全网通版 #China,xiaomi
+2304FPN6DC,#全网通版 #China,xiaomi
+2304FPN6DG,#国际版 #Global,xiaomi
+23053RN02A,#国际版 #Global,xiaomi
+23053RN02I,#印度版 #India,xiaomi
+23053RN02L,#拉美版 #Latin America,xiaomi
+23053RN02Y,#国际版 (NFC) #Global (NFC),xiaomi
+23054RA19C,#全网通版 #China,xiaomi
+2305EPCC4G,#国际版 #Global,xiaomi
+2306EPN60G,#国际版 #Global,xiaomi
+2306EPN60R,#日本版 #Japan,xiaomi
+23076PC4BI,#印度版 #India,xiaomi
+23076RA4BC,#全网通版 #全网通版 #China #China,xiaomi
+23076RN4BI,#印度版 #India,xiaomi
+23076RN8DY,#国际版 (NFC) #Global (NFC),xiaomi
+23077RABDC,#全网通版 #China,xiaomi
+23078PND5G,#国际版 #Global,xiaomi
+23078RKD5C,#全网通版 #China,xiaomi
+2308CPXD0C,# #China,xiaomi
+8297,#移动 3G 版,coolpad
+8297-C00,#电信 4G 版,coolpad
+8297-T01,#Plus 移动 4G 版 & 酷派大神 F1 极速版,coolpad
+8297-W01,#Plus 联通 4G 版,coolpad
+8297D,#青春版,coolpad
+8297W,#联通 3G 版,coolpad
+8670,#,coolpad
+8675-F01,#全高清移动版,coolpad
+8675-FHD,#全高清版,coolpad
+8675-HD,#移动版,coolpad
+8675-W00,#联通版,coolpad
+8675A,#全网通版,coolpad
+8676-A01,#全网通版,360
+8676-M01,#移动版,360
+8681-A01,#全网通版,360
+8681-M01,#移动版,360
+8681-M02,#双网通版,360
+8690,#双网通版,coolpad
+8690-T00,#移动版,coolpad
+8691,#全网通版,coolpad
+8692-A00,#全网通版 #极客版,360
+8692-M02,#双网通版,360
+A001OP,#SoftBank,oppo
+A001XM,#5G 日本版 (SoftBank) #5G Japan (SoftBank),xiaomi
+A002OP,#SoftBank,oppo
+A101OP,#SoftBank,oppo
+A101XM,#日本版 (SoftBank) #Japan (SoftBank),xiaomi
+A102OP,#5G (SoftBank),oppo
+A1203,# #,apple
+A1241,# #,apple
+A1303,# # #,apple
+A1324,#中国大陆 #China mainland #,apple
+A1325,"#中国大陆, 无 WLAN 功能 #China mainland #无 WLAN 功能",apple
+A1332,"#GSM #GSM, 2011 #GSM #GSM, 2011 # #2011",apple
+A1349,#CDMA #CDMA,apple
+A1387,#CDMA #CDMA #中国电信,apple
+A1428,#GSM #GSM,apple
+A1429,#GSM #GSM #中国联通,apple
+A1431,#GSM #GSM #中国联通,apple
+A1442,#CDMA #CDMA #中国电信,apple
+A1453,#CDMA #CDMA,apple
+A1456,#CDMA #CDMA,apple
+A1457,#GSM #GSM,apple
+A1507,#GSM #GSM,apple
+A1516,"#LTE, 中国移动 #China Mobile #中国移动",apple
+A1518,"#LTE, 中国移动 #China Mobile #中国移动",apple
+A1522,#美国 #,apple
+A1524,# # #,apple
+A1526,"#GSM, 中国联通 #GSM #中国联通",apple
+A1528,"#GSM, 中国联通 #GSM #中国联通",apple
+A1529,#LTE #GSM #LTE,apple
+A1530,#LTE #GSM #LTE,apple
+A1532,"#CDMA, 中国电信 #CDMA #中国电信",apple
+A1533,"#CDMA, 中国电信 #CDMA #中国电信",apple
+A1549,#美国 #,apple
+A1586,# # #,apple
+A1589,#中国移动 #China Mobile #中国移动,apple
+A1593,#中国移动 #China Mobile #中国移动,apple
+A1633,# #,apple
+A1634,# #,apple
+A1660,# # #,apple
+A1661,# # #,apple
+A1662,#美国 #,apple
+A1687,# #,apple
+A1688,# #,apple
+A1690,#中国移动 #China Mobile #中国移动,apple
+A1691,#中国移动 #China Mobile #中国移动,apple
+A1699,#中国大陆 #China mainland #,apple
+A1700,#中国大陆 #China mainland #,apple
+A1723,# # #,apple
+A1724,#中国移动 #China Mobile #中国移动,apple
+A1778,#GSM #GSM,apple
+A1779,#日本 #Japan,apple
+A1780,#中国移动 #China Mobile #中国移动,apple
+A1784,#GSM #GSM,apple
+A1785,#日本 #Japan,apple
+A1786,#中国移动 #China Mobile #中国移动,apple
+A1863,# # #,apple
+A1864,# # #,apple
+A1865,# # #,apple
+A1897,#GSM #GSM,apple
+A1898,#日本 #Japan,apple
+A1899,#中国移动 #China Mobile #中国移动,apple
+A1901,#GSM #GSM,apple
+A1902,#日本 #Japan,apple
+A1903,#中国移动 #China Mobile #中国移动,apple
+A1905,#GSM #GSM,apple
+A1906,#日本 #Japan,apple
+A1907,#中国移动 #China Mobile #中国移动,apple
+A1920,#北美，港澳 #North America,apple
+A1921,#北美 #North America,apple
+A1984,#北美 #North America,apple
+A201OP,#SoftBank,oppo
+A201XM,#日本版 (SoftBank) #Japan (SoftBank),xiaomi
+A2097,#GSM #GSM,apple
+A2098,#日本 #Japan,apple
+A2099,#中国移动 #China Mobile #中国移动,apple
+A2100,#中国大陆 #China mainland #,apple
+A2101,#GSM #GSM,apple
+A2102,#日本 #Japan,apple
+A2103,#中国移动 #China Mobile #中国移动,apple
+A2104,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2105,#GSM #GSM,apple
+A2106,#日本 #Japan,apple
+A2107,#中国移动 #China Mobile #中国移动,apple
+A2108,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2111,#北美 #North America,apple
+A2160,#北美 #North America,apple
+A2161,#北美 #North America,apple
+A2172,#美国 #United States,apple
+A2176,#美国 #United States,apple
+A2215,#其他国家和地区 #Rest of the world,apple
+A2216,#中国移动 #China Mobile #中国移动,apple
+A2217,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2218,#其他国家和地区 #Rest of the world,apple
+A2219,#中国移动 #China Mobile #中国移动,apple
+A2220,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2221,#其他国家和地区 #Rest of the world,apple
+A2222,#中国移动 #China Mobile #中国移动,apple
+A2223,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2275,#北美 #North America,apple
+A2296,#其他国家和地区 #Rest of the world,apple
+A2297,#中国移动 #China Mobile #中国移动,apple
+A2298,#中国大陆 #China mainland #,apple
+A2341,#美国 #United States,apple
+A2342,#美国 #United States,apple
+A2398,"#加拿大，日本 #Canada, Japan",apple
+A2399,#其他国家和地区 #Rest of the world,apple
+A2400,#中国大陆 #China mainland #,apple
+A2402,"#加拿大，日本 #Canada, Japan",apple
+A2403,#其他国家和地区 #Rest of the world,apple
+A2404,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2406,"#加拿大，日本 #Canada, Japan",apple
+A2407,#其他国家和地区 #Rest of the world,apple
+A2408,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2410,"#加拿大，日本 #Canada, Japan",apple
+A2411,#其他国家和地区 #Rest of the world,apple
+A2412,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2481,#美国 #United States,apple
+A2482,#美国 #United States,apple
+A2483,#美国 #United States,apple
+A2484,#美国 #United States,apple
+A2595,#北美 #North America,apple
+A2626,"#加拿大, 日本, 墨西哥, 沙特阿拉伯 #Canada, Japan, Mexico, Saudi Arabia",apple
+A2628,#其他国家和地区 #Rest of the world,apple
+A2629,#中国大陆 #China mainland #,apple
+A2630,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2631,"#加拿大, 日本, 墨西哥, 沙特阿拉伯 #Canada, Japan, Mexico, Saudi Arabia",apple
+A2632,#美国 #United States,apple
+A2633,#其他国家和地区 #Rest of the world,apple
+A2634,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2635,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2636,"#加拿大, 日本, 墨西哥, 沙特阿拉伯 #Canada, Japan, Mexico, Saudi Arabia",apple
+A2638,#其他国家和地区 #Rest of the world,apple
+A2639,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2640,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2641,"#加拿大, 日本, 墨西哥, 沙特阿拉伯 #Canada, Japan, Mexico, Saudi Arabia",apple
+A2643,#其他国家和地区 #Rest of the world,apple
+A2644,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2645,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2649,#美国 #United States,apple
+A2650,#美国 #United States,apple
+A2651,#美国 #United States,apple
+A2782,#日本 #Japan,apple
+A2783,#其他国家和地区 #Rest of the world,apple
+A2784,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2785,#中国大陆 #China mainland #,apple
+A2881,"#加拿大, 日本, 墨西哥, 沙特阿拉伯 #Canada, Japan, Mexico, Saudi Arabia",apple
+A2882,#其他国家和地区 #Rest of the world,apple
+A2883,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2884,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2885,"#加拿大, 日本, 墨西哥, 沙特阿拉伯 #Canada, Japan, Mexico, Saudi Arabia",apple
+A2886,#其他国家和地区 #Rest of the world,apple
+A2887,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2888,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2889,"#加拿大, 日本, 墨西哥, 沙特阿拉伯 #Canada, Japan, Mexico, Saudi Arabia",apple
+A2890,#其他国家和地区 #Rest of the world,apple
+A2891,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2892,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A2893,"#加拿大, 日本, 墨西哥, 沙特阿拉伯 #Canada, Japan, Mexico, Saudi Arabia",apple
+A2894,#其他国家和地区 #Rest of the world,apple
+A2895,"#亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯 #Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia",apple
+A2896,"#中国大陆 & 港澳 #China mainland, Hong Kong, Macao #",apple
+A301OP,#SoftBank,oppo
+A680H,魅族 M3E 国际版 #Global,meizu
+A680M,#移动版 #1 E China Mobile,meizu
+A680Q,#公开版 #1 E China,meizu
+ABR-AL00,#,huawei
+ABR-AL60,#,huawei
+ABR-AL80,#,huawei
+ABR-AL90,#,huawei
+AC2001,#印度版 #India,oneplus
+AC2003,#欧洲版/国际版 #EU / Global,oneplus
+ADT-AN00,#5G,honor
+AGT-AN00,#5G,honor
+AKA-AL10,#,honor
+AKA-L29,#,honor
+ALA-AN70,#5G,honor
+ALE-L02,#,huawei
+ALE-L04,#,huawei
+ALE-L21,#,huawei
+ALE-L23,#,huawei
+ALH-BD00,#5G,zhixuan
+ALI-AN00,#5G,honor
+ALN-AL00,#,huawei
+ALN-AL80,#,huawei
+ALN-LX9,#,huawei
+ALP-AL00,#全网通版,huawei
+ALP-L09,#Single SIM,huawei
+ALP-L29,#Dual SIM,huawei
+ALP-TL00,#移动 4G+ 版,huawei
+ALT-AL00,#,huawei
+ALT-L29,#,huawei
+AMN-LX1,#Dual SIM,huawei
+AMN-LX2,#Dual SIM,huawei
+AMN-LX3,#Single SIM #Dual SIM,huawei
+AMN-LX9,#Single SIM #Dual SIM,huawei
+ANA-AL00,#4G 全网通版,huawei
+ANA-AN00,#5G 全网通版,huawei
+ANA-NX9,#Dual SIM,huawei
+ANA-TN00,#5G 移动版,huawei
+ANB-AN00,#5G,honor
+ANE-AL00,#全网通版,huawei
+ANE-LX1,#,huawei
+ANE-LX2,#,huawei
+ANE-LX2J,#,huawei
+ANE-LX3,#,huawei
+ANE-TL00,#移动 4G+ 版,huawei
+ANG-AN00,#5G,huawei
+ANG-LX1,#,huawei
+ANG-LX2,#,huawei
+ANN-AN00,#5G,honor
+ANP-AN00,#5G,honor
+ANY-AN00,#5G,honor
+ANY-LX1,# #,honor
+ANY-LX2,#,honor
+ANY-LX3,#,honor
+ANY-NX1,# #,honor
+AQM-AL00,#全网通版,huawei
+AQM-AL10,#,honor
+AQM-LX1,# #Single SIM #Dual SIM,huawei
+AQM-TL00,#移动 4G+ 版,huawei
+ARE-AL00,#全网通版 (骁龙 636),honor
+ARE-AL10,#全网通版 (骁龙 660),honor
+ARE-TL00,#移动 4G+ 版 (骁龙 636),honor
+ARS-AL00,#全网通版,huawei
+ARS-TL00,#移动 4G+ 版,huawei
+ART-AL00m,#全网通版,huawei
+ART-AL00x,#全网通版,huawei
+ART-L28,#Single SIM #Dual SIM,huawei
+ART-L29,#Dual SIM #Dual SIM,huawei
+ART-L29N,#Dual SIM,huawei
+ART-T0,#,coolpad
+ART-TL00x,#移动 4G+ 版,huawei
+ASK-AL00x,#全网通版 (麒麟 710F),honor
+ASK-AL20,#全网通版 (麒麟 710A),honor
+ASK-TL00x,#移动 4G+ 版 (麒麟 710F),honor
+ASUS_AI2201_A,#游戏手机 6,asus
+ASUS_AI2201_B,#游戏手机 6 Pro,asus
+ASUS_AI2203_A,#游戏手机 6 天玑版,asus
+ASUS_AI2203_B,#游戏手机 6 天玑至尊版,asus
+ASUS_AI2205_A,#游戏手机 7,asus
+ASUS_AI2205_B,#游戏手机 7 Pro,asus
+ASUS_I001DA,#游戏手机 2,asus
+ASUS_I001DB,#游戏手机 2,asus
+ASUS_I003DD,#游戏手机 3,asus
+ASUS_I005DA,#游戏手机 5 #游戏手机 5s,asus
+ASUS_I005DB,#游戏手机 5 Pro #游戏手机 5s Pro,asus
+ASUS_I007D,#,asus
+ASUS_Z01QD,#游戏手机,asus
+ATH-AL00,#全网通版,honor
+ATH-CL00,#电信版,honor
+ATH-TL00,#移动定制版,honor
+ATH-TL00H,#移动渠道版,honor
+ATH-UL00,#双 4G 版,honor
+ATH-UL01,#,honor
+ATH-UL06,#,honor
+ATH-UL11,#,honor
+ATH-UL16,#,honor
+ATU-AL10,#全网通版,huawei
+ATU-L21,#Dual SIM,huawei
+ATU-L22,#Dual SIM,huawei
+ATU-L23,#Dual SIM,huawei
+ATU-L31,#Dual SIM,huawei
+ATU-L42,#Dual SIM,huawei
+ATU-LX3,#Single SIM,huawei
+ATU-TL10,#移动 4G+ 版,huawei
+AUM-AL00,#全网通标配版,honor
+AUM-AL20,#全网通高配版 #,honor
+AUM-L29,#,honor
+AUM-L33,#,honor
+AUM-L41,#,honor
+AUM-TL00,#移动 4G+ 标配版,honor
+AUM-TL20,#移动 4G+ 高配版,honor
+AVA-PA00,#,zhixuan
+AWM-A0,# #China,blackshark
+BAC-AL00,#全网通版,huawei
+BAC-L01,#Single SIM,huawei
+BAC-L03,#Single SIM,huawei
+BAC-L21,#Dual SIM,huawei
+BAC-L22,#Dual SIM,huawei
+BAC-L23,#Dual SIM,huawei
+BAC-TL00,#移动 4G+ 版,huawei
+BAL-AL00,#,huawei
+BAL-AL60,#,huawei
+BAL-L49,#,huawei
+BAL-LX9,#,huawei
+BE2011,#北美版 #North America,oneplus
+BE2012,#T-Mobile 版 #T-Mobile,oneplus
+BE2013,#国际版 #Global,oneplus
+BE2015,#Metro 版 #Metro,oneplus
+BE2025,#Metro 版 #Metro,oneplus
+BE2026,#北美版 #North America,oneplus
+BE2028,#T-Mobile 版 #T-Mobile,oneplus
+BE2029,#欧洲版/国际版 #EU / Global,oneplus
+BKK-AL00,#全网通版 (4GB+64GB),honor
+BKK-AL10,#全网通版,honor
+BKK-L21,#,honor
+BKK-L22,#,honor
+BKK-LX2,#,honor
+BKK-TL00,#移动 4G+ 版,honor
+BKL-AL00,#全网通标配版,honor
+BKL-AL10,#全网通高配版,honor
+BKL-AL20,#全网通尊享版,honor
+BKL-L04,#United States,honor
+BKL-L09,#,honor
+BKL-TL10,#移动 4G+ 版,honor
+BLA-A09,#United States #United States,huawei
+BLA-AL00,#全网通版 #,huawei
+BLA-L09,#Single SIM,huawei
+BLA-L29,#Dual SIM #Dual SIM,huawei
+BLA-TL00,#移动 4G+ 版,huawei
+BLN-AL10,#全网通版,honor
+BLN-AL20,#全网通版,honor
+BLN-AL30,#全网通版 (电信 800M),honor
+BLN-AL40,#全网通版 (电信 800M),honor
+BLN-L21,#,honor
+BLN-L22,#,honor
+BLN-L24,#United States,honor
+BLN-TL00,#移动定制版,honor
+BLN-TL10,#移动定制版,honor
+BMH-AN10,#5G 全网通版,honor
+BMH-AN20,#5G 全网通版,honor
+BMH-TN10,#5G 移动定制版,honor
+BMH-TN20,#5G 移动定制版,honor
+BND-AL00,#全网通版 (4GB+64GB),honor
+BND-AL10,#全网通版 #,honor
+BND-L21,#,honor
+BND-L24,#United States,honor
+BND-L31,#,honor
+BND-L34,#United States,huawei
+BND-TL10,#移动 4G+ 版,honor
+BNE-AL00,#,huawei
+BNE-LX1,#,huawei
+BNE-LX3,#,huawei
+BOS-A0,#,coolpad
+BRA-AL00,#,huawei
+BRQ-AL00,#4G,huawei
+BRQ-AN00,#5G,huawei
+C105,#,coolpad
+C105-6,#,coolpad
+C105-8,#,coolpad
+C106,#,coolpad
+C106-6,#,coolpad
+C106-7,#,coolpad
+C106-8,#,coolpad
+C106-9,#,coolpad
+C107,#,coolpad
+C107-9,#,coolpad
+C1502W,#,google
+C8817D,#电信版,honor
+CAM-AL00,#全网通版,honor
+CAM-CL00,#电信版,honor
+CAM-TL00,#移动增强版,honor
+CAM-TL00H,#移动渠道版,honor
+CAM-UL00,#双 4G 版,honor
+CAN-L01,#,huawei
+CAN-L02,#,huawei
+CAN-L03,#,huawei
+CAN-L11,#,huawei
+CAN-L12,#,huawei
+CAN-L13,#,huawei
+CDL-AN50,#,huawei
+CDY-AN00,#5G 全网通版,huawei
+CDY-AN20,#5G 全网通版,huawei
+CDY-AN90,#5G 全网通版,honor
+CDY-AN95,#5G 全网通版,honor
+CDY-NX9,# #5G,huawei
+CDY-TN00,#5G 移动版,huawei
+CDY-TN20,#5G 移动版,huawei
+CDY-TN90,#5G 移动定制版,honor
+CDY-TN95,#5G 移动定制版,honor
+CET-AL00,#,huawei
+CET-AL60,#,huawei
+CET-LX9,#,huawei
+CHA-A0,#,coolpad
+CHA-AL80,#,huawei
+CHE-TL00,#移动定制版 (2015),honor
+CHE-TL00H,#移动渠道版 (2015),honor
+CHL-AL00,#,honor
+CHL-AL60,#,huawei
+CHL-AN00,#5G,honor
+CHM-CL00,#电信版,honor
+CHM-TL00,#移动定制版,honor
+CHM-TL00H,#移动渠道版,honor
+CHM-U01,#,honor
+CHM-UL00,#双 4G 版,honor
+CLT-AL00,#全网通版,huawei
+CLT-AL00l,#真皮限量版 全网通版,huawei
+CLT-AL01,#全网通版 (6GB+64GB),huawei
+CLT-L04,#Single SIM,huawei
+CLT-L09,#Single SIM,huawei
+CLT-L29,#Dual SIM,huawei
+CLT-TL00,#移动 4G+ 版,huawei
+CLT-TL01,#移动 4G+ 版 (6GB+64GB),huawei
+CMA-AN00,#5G,honor
+CMA-AN40,#5G,honor
+CMA-LX1,#,honor
+CMA-LX2,#,honor
+CMA-LX3,#,honor
+CND-AN00,#,huawei
+COL-AL00,#全网通标配版,honor
+COL-AL10,#全网通高配版 #,honor
+COL-L29,#,honor
+COL-L29D,#,honor
+COL-TL00,#移动 4G+ 标配版,honor
+COL-TL10,#移动 4G+ 高配版,honor
+COR-AL00,#全网通标配版 #,honor
+COR-AL10,#全网通高配版,honor
+COR-L29,#,honor
+COR-TL10,#移动 4G+ 高配版,honor
+CP03,#,coolpad
+CP05,#5G / 酷派大观 40 Pro 5G,coolpad
+CP07,#5G,coolpad
+CP13,#,coolpad
+CP15,#5G,coolpad
+CP16t,#5G,coolpad
+CP17,#5G,coolpad
+CPH1701,#2016,oppo
+CPH1803,#,oppo
+CPH1805,#,oppo
+CPH1809,#,oppo
+CPH1819,#,oppo
+CPH1821,#,oppo
+CPH1823,#,oppo
+CPH1825,#,oppo
+CPH1831,#,oppo
+CPH1833,#,oppo
+CPH1835,#,oppo
+CPH1837,#,oppo
+CPH1851,#,oppo
+CPH1853,#,oppo
+CPH1859,# #,oppo
+CPH1861,#,realme
+CPH1871,#,oppo
+CPH1875,#,oppo
+CPH1877,#,oppo
+CPH1879,#,oppo
+CPH1881,#,oppo
+CPH1893,# #,oppo
+CPH1893RU,# #,oppo
+CPH1901,#,oppo
+CPH1903,#,oppo
+CPH1905,#,oppo
+CPH1907,#,oppo
+CPH1909,#,oppo
+CPH1909RU,#,oppo
+CPH1911,#,oppo
+CPH1912,#,oppo
+CPH1917,#,oppo
+CPH1919,#,oppo
+CPH1920,#,oppo
+CPH1921,#,oppo
+CPH1923,#,oppo
+CPH1923RU,#,oppo
+CPH1931,# #,oppo
+CPH1933,#,oppo
+CPH1937,#,oppo
+CPH1938,#,oppo
+CPH1941,# #,oppo
+CPH1943,# #,oppo
+CPH1945,#,oppo
+CPH1951,#,oppo
+CPH1951RU,#,oppo
+CPH1955,#,oppo
+CPH1969,#,oppo
+CPH1979,#,oppo
+CPH1983,#,oppo
+CPH1987,#,oppo
+CPH1989,#,oppo
+CPH2001,# #,oppo
+CPH2005,#,oppo
+CPH2009,# #India,oppo
+CPH2013,#,oppo
+CPH2015,#,oppo
+CPH2021,#,oppo
+CPH2023,#,oppo
+CPH2025,#,oppo
+CPH2031,#,oppo
+CPH2035,#Global,oppo
+CPH2036,#Global,oppo
+CPH2037,#Global,oppo
+CPH2043,#,oppo
+CPH2059,#,oppo
+CPH2061,#,oppo
+CPH2065,#,oppo
+CPH2067,#,oppo
+CPH2069,#,oppo
+CPH2071,#,oppo
+CPH2073,#,oppo
+CPH2077,#,oppo
+CPH2081,#,oppo
+CPH2083,# #,oppo
+CPH2089,#,oppo
+CPH2091,#,oppo
+CPH2095,# #,oppo
+CPH2099,#,oppo
+CPH2109,#,oppo
+CPH2113,#,oppo
+CPH2119,# #,oppo
+CPH2121,#,oppo
+CPH2123,#,oppo
+CPH2125,#,oppo
+CPH2127,# #,oppo
+CPH2131,#,oppo
+CPH2133,#,oppo
+CPH2135,#5G,oppo
+CPH2137,# #,oppo
+CPH2139,#,oppo
+CPH2145,# #5G,oppo
+CPH2159,#,oppo
+CPH2161,#5G,oppo
+CPH2173,#,oppo
+CPH2179,#,oppo
+CPH2185,#,oppo
+CPH2195,#5G,oppo
+CPH2197,# #5G,oppo
+CPH2199,#,oppo
+CPH2201,#,oppo
+CPH2203,#,oppo
+CPH2205,#,oppo
+CPH2207,# #5G,oppo
+CPH2209,#,oppo
+CPH2211,# #5G,oppo
+CPH2213,# #5G,oppo
+CPH2217,# #,oppo
+CPH2219,# #,oppo
+CPH2223,#,oppo
+CPH2235,#,oppo
+CPH2237,# #5G,oppo
+CPH2239,#,oppo
+CPH2247,#5G,oppo
+CPH2249,#5G,oppo
+CPH2251,#5G,oppo
+CPH2263,#5G,oppo
+CPH2269,#,oppo
+CPH2271,#,oppo
+CPH2273,#,oppo
+CPH2275,#,oppo
+CPH2285,#,oppo
+CPH2293,#5G,oppo
+CPH2303,#5G,oppo
+CPH2305,#,oppo
+CPH2307,#,oppo
+CPH2309,#5G,oppo
+CPH2321,#5G,oppo
+CPH2325,#,oppo
+CPH2333,#,oppo
+CPH2339,#5G,oppo
+CPH2341,#5G,oppo
+CPH2343,#5G 1#5G 2#5G #5G,oppo
+CPH2349,#,oppo
+CPH2351,#,oppo
+CPH2353,#,oppo
+CPH2357,#5G,oppo
+CPH2359,#5G,oppo
+CPH2363,# #,oppo
+CPH2365,# #,oppo
+CPH2371,# #5G,oppo
+CPH2373,#,oppo
+CPH2375,#,oppo
+CPH2381,#印度版 #India,oneplus
+CPH2385,# #,oppo
+CPH2387,#,oppo
+CPH2389,# #,oneplus
+CPH2399,#国际版 #Global,oneplus
+CPH2401,#印度版 #India,oneplus
+CPH2407,#,oppo
+CPH2409,#欧洲版/国际版 #EU / Global,oneplus
+CPH2411,#长寿版 印度版 #Endurance India,oneplus
+CPH2413,1#印度版 #India,oneplus
+CPH2415,1#欧洲版/国际版 #EU / Global,oneplus
+CPH2417,1#北美版 #North America,oneplus
+CPH2419,1#T-Mobile 版 #T-Mobile,oneplus
+CPH2421,#,oppo
+CPH2423,#印度版 #India,oneplus
+CPH2437,#,oppo
+CPH2439,#,oppo
+CPH2447,#印度版 #India,oneplus
+CPH2449,#欧洲版/国际版 #EU / Global,oneplus
+CPH2451,#北美版 #North America,oneplus
+CPH2455,#5G,oppo
+CPH2457,#5G,oppo
+CPH2459,# #,oneplus
+CPH2461,# #,oppo
+CPH2465,#国际版 #Global,oneplus
+CPH2467,#印度版 #India,oneplus
+CPH2469,#20 SE #20 SE,oneplus
+CPH2471,#,oppo
+CPH2473,#,oppo
+CPH2477,#,oppo
+CPH2481,# #,oppo
+CPH2483,#5G,oppo
+CPH2487,1#印度版 #India,oneplus
+CPH2491,#印度版 #India,oneplus
+CPH2493,#欧洲版 #EU,oneplus
+CPH2495,#5G,oppo
+CPH2505,#5G,oppo
+CPH2513,# #,oneplus
+CPH2515,# #,oneplus
+CPH2521,#5G,oppo
+CPH2523,#,oppo
+CPH2525,#5G,oppo
+CPH2527,#5G,oppo
+CPH2529,#5G,oppo
+CPH2531,#5G,oppo
+CPH2565,#,oppo
+CPH2569,#印度版 #India,oneplus
+CRR-L09,#Single SIM,huawei
+CRR-UL00,#Dual SIM,huawei
+CRT-AN00,#5G,honor
+CRT-LX1,#,honor
+CRT-LX2,#,honor
+CRT-LX3,#,honor
+CRT-NX1,#5G,honor
+CRT-NX3,#5G,honor
+CTR-AL00,#,huawei
+CTR-LX1,#,huawei
+CTR-LX2,#,huawei
+CTR-LX3,#,huawei
+CUN-AL00,#全网通版,honor
+CUN-TL00,#移动定制版,honor
+Che1-CL10,#电信版,honor
+Che1-CL20,#全网通版,honor
+Che1-L04,#India,honor
+Che2-L03,#Single SIM,honor
+Che2-L11,#Dual SIM,honor
+Che2-L12,#Dual SIM,honor
+Che2-L23,#Dual SIM,honor
+Che2-TL00,#移动渠道版 (2014),honor
+Che2-TL00H,#移动渠道版 (2014),honor
+Che2-TL00M,#移动定制版 (2014),honor
+Che2-UL00,#联通版,honor
+DAV-703L,#,huawei
+DAV-713L,#,huawei
+DCO-AL00,# #,huawei
+DCO-LX9,#,huawei
+DE106,#,smartisan
+DE2117,#北美版 #North America,oneplus
+DE2118,#T-Mobile 版 #T-Mobile,oneplus
+DET-A0,#,coolpad
+DIG-AL00,#全网通版,huawei
+DIG-L22HN,#,honor
+DIG-TL10,#移动 4G+ 版,huawei
+DIO-AN00,#5G #5G,honor
+DLI-AL10,#全网通版,honor
+DLI-L22,#,honor
+DLI-L42,#,honor
+DLI-TL20,#移动定制版 #,honor
+DLT-A0,#全网通版 #China,blackshark
+DLT-H0,#国际版 #Global,blackshark
+DN2101,#印度版 #India,oneplus
+DN2103,#欧洲版 #EU,oneplus
+DRA-AL00,#全网通版,huawei
+DRA-AL00IA,#,honor
+DRA-L01,#Single SIM,huawei
+DRA-L21,#Dual SIM,huawei
+DRA-LX2,#Dual SIM,huawei
+DRA-LX5,#,honor
+DRA-LX9,#Single SIM #Dual SIM,huawei
+DRA-TL00,#移动 4G+ 版,huawei
+DT1901A,#黑色/松绿色,smartisan
+DT1902A,#白色,smartisan
+DT2002C,#,smartisan
+DT2003A,#有线版,smartisan
+DT2003C,#无线版,smartisan
+DUA-AL00,#全网通版,honor
+DUA-L22,#,honor
+DUA-LX3,#,honor
+DUA-TL00,#移动 4G+ 版,honor
+DUB-AL00,#全网通标配/高配版,huawei
+DUB-AL00a,#全网通顶配版,huawei
+DUB-AL20,#全网通标配/高配版,huawei
+DUB-LX1,#Single SIM #Dual SIM,huawei
+DUB-LX3,#Single SIM #Dual SIM,huawei
+DUB-TL00,#移动 4G+ 标配/高配版,huawei
+DUB-TL00a,#移动 4G+ 顶配版,huawei
+DUK-AL20,#全网通版,honor
+DUK-L09,#,honor
+DUK-TL30,#移动定制版,honor
+DVC-AN00,#5G,huawei
+DVC-AN20,#5G 全网通版,huawei
+DVC-TN20,#5G 移动版,huawei
+E6683,#,sony
+E6883,#,sony
+EB2101,#印度版 #India,oneplus
+EB2103,#欧洲版/国际版 #EU / Global,oneplus
+EBG-AN00,#5G 全网通版,honor
+EBG-AN10,#5G,honor
+EBG-TN00,#5G 移动定制版,honor
+EDI-AL10,#全网通版,honor
+EDI-DL00,#移动/联通版,honor
+ELE-AL00,#全网通版,huawei
+ELE-L09,#Single SIM,huawei
+ELE-L29,#Dual SIM,huawei
+ELE-TL00,#移动 4G+ 版,huawei
+ELS-AN00,#5G 全网通版,huawei
+ELS-AN10,#5G 全网通版,huawei
+ELS-N04,#Single SIM,huawei
+ELS-NX9,#Single SIM #Dual SIM,huawei
+ELS-TN00,#5G 移动版,huawei
+ELS-TN10,#5G 移动版,huawei
+ELZ-AN00,#5G,honor
+ELZ-AN10,#5G,honor
+ELZ-AN20,#5G,honor
+EML-AL00,#全网通版,huawei
+EML-L09,#Single SIM,huawei
+EML-L29,#Dual SIM,huawei
+EML-TL00,#移动 4G+ 版,huawei
+EVA-AL00,#全网通版 (32GB),huawei
+EVA-AL10,#全网通版 (64GB),huawei
+EVA-CL00,#电信版,huawei
+EVA-DL00,#双 4G 版,huawei
+EVA-L09,#Single SIM,huawei
+EVA-L19,#Dual SIM,huawei
+EVA-L29,#Dual SIM,huawei
+EVA-TL00,#移动版,huawei
+EVE-AL00,#,huawei
+EVE-LX3,#,huawei
+EVE-LX9,#,huawei
+EVE-LX9N,#,huawei
+EVR-AL00,#全网通版,huawei
+EVR-AN00,#5G,huawei
+EVR-L29,#Dual SIM,huawei
+EVR-N29,#5G Dual SIM,huawei
+EVR-TL00,#移动 4G+ 版,huawei
+F810,#5G,zhixuan
+F8332,#,sony
+FIG-AL00,#全网通标配版,huawei
+FIG-AL10,#全网通高配版,huawei
+FIG-LA1,#,huawei
+FIG-LX1,#,huawei
+FIG-LX2,#,huawei
+FIG-LX3,#,huawei
+FIG-TL00,#移动 4G+ 标配版,huawei
+FIG-TL10,#移动 4G+ 高配版,huawei
+FIO-BD00,#5G,zhixuan
+FIO-TL00,#5G,zhixuan
+FLA-AL00,#全网通版,huawei
+FLA-AL10,#全网通版,huawei
+FLA-AL20,#全网通版,huawei
+FLA-LX1,#Dual SIM,huawei
+FLA-LX3,#Dual SIM,huawei
+FLA-TL00,#移动 4G+ 版,huawei
+FLA-TL10,#移动 4G+ 版,huawei
+FNE-AN00,#5G,honor
+FNE-NX9,#5G,honor
+FOA-AL00,#,huawei
+FOA-LX9,#,huawei
+FRD-AL00,#全网通版 (3/4GB+32GB),honor
+FRD-AL10,#全网通版 (4GB+64GB),honor
+FRD-DL00,#移动/联通版,honor
+FRD-L02,#Single SIM,honor
+FRD-L04,#Single SIM,honor
+FRD-L09,#Dual SIM,honor
+FRD-L19,#Dual SIM,honor
+FRD-TL00,#移动版,honor
+FRI-AN00,#5G,honor
+FRI-AN10,#5G,honor
+FRI-NX9,#,honor
+FRL-AN00a,#5G 全网通版,huawei
+FRL-L21,#Dual SIM,huawei
+FRL-L22,#Dual SIM,huawei
+FRL-L23,#Dual SIM,huawei
+FRL-TN00,#5G 移动版,huawei
+G-2PW2100,#North America,google
+G-2PW2200,#Rest of the world,google
+G-2PW4100,#North America,google
+G-2PW4200,#Rest of the world,google
+G011A,#,google
+G011C,#,google
+G013A,#,google
+G013B,#Japan,google
+G013C,#,google
+G013D,#Japan,google
+G020A,#Verizon,google
+G020B,"#UK, Europe, and APAC",google
+G020C,#North America,google
+G020D,#Japan,google
+G020E,#Verizon,google
+G020F,"#UK, Europe, and APAC",google
+G020G,#North America,google
+G020H,#Japan,google
+G020I,"#North America, TW",google
+G020J,"#North America, TW",google
+G020M,#Rest of the world,google
+G020N,#Japan,google
+G020P,#Rest of the world,google
+G020Q,#Japan,google
+G025E,"#North America, TW",google
+G025H,#Japan,google
+G025I,#Rest of the world,google
+G025J,"#North America, TW",google
+G025M,#Japan,google
+G025N,#Rest of the world,google
+G03Z5,#Japan,google
+G0B96,#Japan,google
+G0DZQ,#mmWave,google
+G1AZG,#Rest of the world,google
+G1F8F,#US,google
+G4S1M,#Japan,google
+G5NZ6,#Japan,google
+G620S-UL00,#联通版,honor
+G621-TL00,#移动定制版,honor
+G621-TL00M,#移动渠道版,honor
+G6QU3,#Verizon,google
+G750-T00,#双 3G 版,honor
+G750-T01,#,honor
+G750-T20,#Pro,honor
+G750-U00,#联通版,honor
+G8142,#,sony
+G8232,#,sony
+G82U8,#Japan,google
+G8342,#,sony
+G8VOU,"#(US, AU) (mmWave)",google
+G9FPL,"#US, EU",google
+G9S9B,"#US, mmWave",google
+GAR-AN00,#5G,zhixuan
+GB17L,#Japan,google
+GB62Z,"#US, mmWave",google
+GB7N6,#Rest of the world,google
+GD1YQ,#US,google
+GE2AE,"#(US, AU) (mmWave)",google
+GF5KQ,#Japan,google
+GFE4J,#Japan,google
+GHL1X,#Global,google
+GIA-AN00,#5G,honor
+GIA-AN80,#5G,honor
+GLA-AL00,#,huawei
+GLA-LX1,#,huawei
+GLA-LX3,#,huawei
+GLK-AL00,#全网通版,huawei
+GLK-LX1U,#联通定制版,huawei
+GLK-TL00,#移动 4G+ 版,huawei
+GLUOG,#Rest of the world,google
+GM1900,#全网通版 #China,oneplus
+GM1901,#印度版 #India,oneplus
+GM1903,#欧洲版 #EU,oneplus
+GM1905,#北美版/国际版 #North America / Global,oneplus
+GM1910,#全网通版 #China,oneplus
+GM1911,#印度版 #India,oneplus
+GM1913,#欧洲版 #EU,oneplus
+GM1915,#北美版/国际版 #North America / Global,oneplus
+GM1917,#T-Mobile 版 #T-Mobile,oneplus
+GM1920,#欧洲版 #EU,oneplus
+GM1925,#Sprint 版 #Sprint,oneplus
+GN2200,# #,oneplus
+GOA-AL80,#,huawei
+GOA-AL80U,#,huawei
+GOA-LX9,#,huawei
+GP4BC,#Rest of the world,google
+GQML3,"#US, mmWave",google
+GR1YH,#Japan,google
+GRA-A0,#,coolpad
+GRA-L09,#Single SIM,huawei
+GRA-M0,#,coolpad
+GRA-UL00,#Dual SIM,huawei
+GRA-UL10,#Dual SIM,huawei
+GT-I8190N,#,samsung
+GT-I9000,#公开版,samsung
+GT-I9008,#移动定制版,samsung
+GT-I9008L,#移动定制版,samsung
+GT-I9018,#移动定制版,samsung
+GT-I9100,#Exynos,samsung
+GT-I9100G,#德州仪器,samsung
+GT-I9108,#移动定制版,samsung
+GT-I9220,#公开版,samsung
+GT-I9228,#移动定制版,samsung
+GT-I9300,#公开版,samsung
+GT-I9300I,#公开版,samsung
+GT-I9308,#移动定制版,samsung
+GT-I9308I,#移动定制版,samsung
+GT-I9500,#公开版,samsung
+GT-I9502,#联通定制版,samsung
+GT-I9507V,#联通 4G 定制版,samsung
+GT-I9508,#移动定制版,samsung
+GT-I9508V,#移动 4G 定制版,samsung
+GT-N7100,#公开版,samsung
+GT-N7102,#联通定制版,samsung
+GT-N7102i,#联通定制版,samsung
+GT-N7108,#移动定制版,samsung
+GT-N7108D,#移动 4G 定制版,samsung
+GTT9Q,#Rest of the world,google
+GVU6C,#Rest of the world,google
+GWKK3,"#North America, EU",google
+GX7AS,"#North America, TW",google
+H30-C00,#电信版,honor
+H30-L01,#移动 4G 版,honor
+H30-L01M,#移动 4G 定制版,honor
+H30-L02,#联通 4G 版,honor
+H30-T00,#移动 3G 版 (4GB),honor
+H30-T10,#移动 3G 版 (8GB),honor
+H30-U10,#联通 3G 版,honor
+H4233,#,sony
+H60-L01,#移动版,honor
+H60-L02,#联通版,honor
+H60-L03,#移动定制版,honor
+H60-L04,#,honor
+H60-L11,#移动高配版,honor
+H60-L12,#联通高配版,honor
+H60-L21,#至尊版,honor
+H8166,#,sony
+H8296,#,sony
+H9493,#,sony
+HD1900,#全网通版 #China,oneplus
+HD1901,#印度版 #India,oneplus
+HD1903,#欧洲版 #EU,oneplus
+HD1905,#北美版/国际版 #North America / Global,oneplus
+HD1907,#T-Mobile 版 #T-Mobile,oneplus
+HD1910,#全网通版 #China,oneplus
+HD1911,#印度版 #India,oneplus
+HD1913,#欧洲版/国际版 #EU / Global,oneplus
+HD1925,#T-Mobile 版 #Concept One #T-Mobile #Concept One,oneplus
+HJC-AN90,#5G,honor
+HJC-LX9,#,honor
+HLK-AL00,#全网通版,honor
+HLK-AL00a,#全网通版,honor
+HLK-AL10,#,honor
+HLK-L41,#,honor
+HLK-L42,#,honor
+HLK-TL00,#移动 4G+ 版,honor
+HMA-AL00,#全网通版,huawei
+HMA-L09,#Single SIM,huawei
+HMA-L29,#Dual SIM,huawei
+HMA-TL00,#移动 4G+ 版,huawei
+HOU-5GA,#5G,coolpad
+HPB-TN00,#5G,honor
+HRY-AL00,#全网通版 #,honor
+HRY-AL00T,#全网通版,honor
+HRY-AL00Ta,#全网通版 (麒麟 710F) #,honor
+HRY-AL00a,#全网通版 (麒麟 710F) #,honor
+HRY-LX1,#,honor
+HRY-LX1MEB,#,honor
+HRY-LX1T,#,honor
+HRY-LX2,#,honor
+HRY-TL00,#移动 4G+ 版,honor
+HRY-TL00T,#移动 4G+ 版,honor
+HUAWEI A199,#,huawei
+HUAWEI ALE-CL00,#电信版,huawei
+HUAWEI ALE-TL00,#移动版,huawei
+HUAWEI ALE-UL00,#双 4G 版,huawei
+HUAWEI B199,#,huawei
+HUAWEI C199,#,huawei
+HUAWEI C199s,#,huawei
+HUAWEI C8860E,Honor 电信版,honor
+HUAWEI C8950D,Honor+ 电信版,honor
+HUAWEI CAZ-AL00,#全网通标配版,huawei
+HUAWEI CAZ-AL10,#全网通高配版,huawei
+HUAWEI CAZ-TL10,#移动定制标配版,huawei
+HUAWEI CAZ-TL20,#移动定制高配版,huawei
+HUAWEI CRR-CL00,#电信臻享版,huawei
+HUAWEI CRR-CL20,#电信臻逸版,huawei
+HUAWEI CRR-TL00,#移动臻享版,huawei
+HUAWEI CRR-UL00,#双 4G 臻享版,huawei
+HUAWEI CRR-UL20,#双 4G 臻逸版,huawei
+HUAWEI D2-0082,#联通版,huawei
+HUAWEI D2-2010,#电信版,huawei
+HUAWEI D2-5000,#移动 3G 版,huawei
+HUAWEI D2-6070,#移动 4G 版,huawei
+HUAWEI G6-C00,#电信版,huawei
+HUAWEI G6-T00,#移动版,huawei
+HUAWEI G6-U00,#联通版,huawei
+HUAWEI G7-TL00,#移动版,huawei
+HUAWEI G7-UL00,#联通版,huawei
+HUAWEI GRA-CL00,#电信标配版,huawei
+HUAWEI GRA-CL10,#电信高配版,huawei
+HUAWEI GRA-TL00,#移动标配版,huawei
+HUAWEI GRA-UL00,#双 4G 标配版,huawei
+HUAWEI GRA-UL10,#双 4G 高配版,huawei
+HUAWEI HN3-U01,荣耀 3 outdoor,honor
+HUAWEI MLA-AL00,#全网通标配版,huawei
+HUAWEI MLA-AL10,#全网通高配版,huawei
+HUAWEI MLA-TL00,#移动 4G 版,huawei
+HUAWEI MLA-TL10,#移动版,huawei
+HUAWEI MLA-UL00,#双 4G 版,huawei
+HUAWEI MT1-T00,#移动版,huawei
+HUAWEI MT1-U06,#联通版,huawei
+HUAWEI MT2-C00,#电信 3G 版,huawei
+HUAWEI MT2-L02,#移动 4G 版,huawei
+HUAWEI MT2-L05,#联通 4G 版,huawei
+HUAWEI MT2-U071,#联通 3G 版,huawei
+HUAWEI MT7-CL00,#电信版,huawei
+HUAWEI MT7-TL00,#移动版,huawei
+HUAWEI MT7-TL10,#双 4G 版,huawei
+HUAWEI MT7-UL00,#联通版,huawei
+HUAWEI NXT-AL10,#全网通版,huawei
+HUAWEI NXT-CL00,#电信版,huawei
+HUAWEI NXT-DL00,#双 4G 版,huawei
+HUAWEI NXT-TL00,#移动版,huawei
+HUAWEI P2-0000,#,huawei
+HUAWEI P6 S-U06,#联通版,huawei
+HUAWEI P6-C00,#电信版,huawei
+HUAWEI P6-T00,#移动渠道版,huawei
+HUAWEI P6-T00V,#移动定制版,huawei
+HUAWEI P6-U06,#联通版,huawei
+HUAWEI P7-L00,#联通版,huawei
+HUAWEI P7-L05,#移动渠道版,huawei
+HUAWEI P7-L07,#移动定制版,huawei
+HUAWEI P7-L09,#电信版,huawei
+HUAWEI RIO-AL00,#全网通版,huawei
+HUAWEI RIO-CL00,#电信 4G 版,huawei
+HUAWEI RIO-TL00,#移动版,huawei
+HUAWEI RIO-UL00,#联通版,huawei
+HUAWEI T8950,Honor+ 移动版,honor
+HUAWEI T9510E,#四核 XL 移动版,huawei
+HUAWEI TAG-AL00,#全网通版,huawei
+HUAWEI TAG-CL00,#电信 4G 版,huawei
+HUAWEI TAG-TL00,#移动 4G 版,huawei
+HUAWEI TIT-AL00,#全网通版,huawei
+HUAWEI TIT-CL00,#电信 4G 版,huawei
+HUAWEI TIT-CL10,#电信 4G 版,huawei
+HUAWEI TIT-TL00,#移动 4G 版,huawei
+HUAWEI U8860,Honor 联通版,honor
+HUAWEI U8950D,Honor+ 联通版,honor
+HUAWEI U9200,#,huawei
+HUAWEI U9200E,#XL,huawei
+HUAWEI U9200S,#S,huawei
+HUAWEI U9500,#,huawei
+HUAWEI U9500E,#XL,huawei
+HUAWEI U9508,荣耀四核爱享版,honor
+HUAWEI U9510,#四核,huawei
+HUAWEI U9510E,#四核 XL,huawei
+HUAWEI VNS-AL00,#全网通版,huawei
+HUAWEI VNS-CL00,#电信版,huawei
+HUAWEI VNS-DL00,#双 4G 版,huawei
+HUAWEI VNS-TL00,#移动版,huawei
+HWI-AL00,#全网通版,huawei
+HWI-TL00,#移动 4G+ 版,huawei
+Hebe-BD00,#5G,zhixuan
+Hera-BD00,#5G,zhixuan
+Hol-T00,#移动版,honor
+Hol-U10,#联通版,honor
+I2011,#5G,vivo
+I2018,#,vivo
+I2019,#,vivo
+I2022,#,vivo
+I2126,#,vivo
+I2127,#,vivo
+I2201,#,vivo
+I2202,#,vivo
+I2203,#,vivo
+I2205,#,vivo
+I2206,#,vivo
+I2207,#5G,vivo
+I2208,#5G,vivo
+I2212,#,vivo
+I2213,#5G,vivo
+I2214,#5G,vivo
+I2216,#5G,vivo
+I2217,#5G,vivo
+I2223,#5G,vivo
+I2301,#5G,vivo
+I4293,#,sony
+IN2010,#全网通版 #China,oneplus
+IN2011,#印度版 #India,oneplus
+IN2013,#欧洲版 #EU,oneplus
+IN2015,#北美版/国际版 #North America / Global,oneplus
+IN2017,#T-Mobile 版 #T-Mobile,oneplus
+IN2019,#Visible 版/Verizon 版 #Visible / Verzion,oneplus
+IN2020,#全网通版 #China,oneplus
+IN2021,#印度版 #India,oneplus
+IN2023,#欧洲版 #EU,oneplus
+IN2025,#北美版/国际版 #North America / Global,oneplus
+INE-AL00,#全网通版,huawei
+INE-LX1,# #,huawei
+INE-LX1r,#,huawei
+INE-LX2,#,huawei
+INE-LX2r,#,huawei
+INE-TL00,#移动 4G+ 版,huawei
+IV2201,#印度版 #India,oneplus
+J9110,#,sony
+J9180,#Professional Editon,sony
+J9210,#,sony
+JAD-AL00,#骁龙 888,huawei
+JAD-AL50,#麒麟 9000,huawei
+JAD-AL60,#麒麟 9000,huawei
+JAD-AL80,#骁龙 888,huawei
+JAD-LX4,#,huawei
+JAD-LX9,#,huawei
+JAT-AL00,#全网通版,honor
+JAT-L29,# #Dual SIM,honor
+JAT-L41,#,honor
+JAT-LX1,# #Dual SIM,honor
+JAT-LX3,# #Single SIM #Dual SIM,honor
+JAT-TL00,#移动 4G+ 版,honor
+JEF-AN00,#5G 全网通版,huawei
+JEF-AN20,#5G 全网通版,huawei
+JEF-TN00,#5G 移动版,huawei
+JEF-TN20,#5G 移动版,huawei
+JER-AN10,#5G 全网通版,huawei
+JER-AN20,#5G 全网通版,huawei
+JER-TN10,#5G 移动版,huawei
+JER-TN20,#5G 移动版,huawei
+JKM-AL00,#全网通版,huawei
+JKM-AL00a,#全网通版 (4GB+64GB),huawei
+JKM-AL00b,#全网通版 (麒麟 710F),huawei
+JKM-LX1,#Single SIM #Dual SIM #Dual SIM,huawei
+JKM-LX2,#Dual SIM #Dual SIM,huawei
+JKM-LX3,#Dual SIM #Single SIM #Dual SIM,huawei
+JKM-TL00,#移动 4G+ 版,huawei
+JLH-AN00,#5G,honor
+JLN-AL00,# #,huawei
+JLN-LX1,#,huawei
+JLN-LX3,#,huawei
+JMM-AL00,#全网通标配版,honor
+JMM-AL10,#全网通高配版,honor
+JMM-L22,#,honor
+JMM-TL00,#移动定制标配版,honor
+JMM-TL10,#移动定制高配版,honor
+JNY-AL10,#全网通版,huawei
+JNY-LX1,#Dual SIM #Dual SIM,huawei
+JNY-LX2,#Single SIM,huawei
+JNY-TL10,#移动版,huawei
+JSC-AL50,#4G 全网通版,huawei
+JSC-AN00,#5G 全网通版,huawei
+JSC-TN00,#5G 移动版,huawei
+JSM-TL00,#移动 4G+ 版,honor
+JSN-AL00,#全网通版,honor
+JSN-AL00a,#全网通版 (麒麟 710F),honor
+JSN-L21,# #,honor
+JSN-L22,# #,honor
+JSN-L23,# #,honor
+JSN-L42,#,honor
+KB2000,#全网通版 #China,oneplus
+KB2001,#印度版 #India,oneplus
+KB2003,#欧洲版 #EU,oneplus
+KB2005,#北美版/国际版 #North America / Global,oneplus
+KB2007,#T-Mobile 版 #T-Mobile,oneplus
+KIW-AL10,#全网通版,honor
+KIW-CL00,#电信版,honor
+KIW-L21,#,honor
+KIW-L24,#United States,honor
+KIW-TL00,#移动定制版,honor
+KIW-TL00H,#移动公开版,honor
+KIW-UL00,#双 4G 版,honor
+KKG-AN00,#5G,honor
+KKG-AN70,#5G,honor
+KNT-AL10,#全网通版,honor
+KNT-AL20,"#全网通版 (麒麟 955, 2K 显示屏)",honor
+KNT-TL10,#移动版,honor
+KNT-UL10,#移动/联通版,honor
+KOZ-AL00,#,honor
+KOZ-AL00CM,#,honor
+KOZ-AL40,#,honor
+KSA-AL00,#全网通版,honor
+KSA-AL10,#,honor
+KSA-LX2,#,honor
+KSA-LX3,#,honor
+KSA-LX9,#,honor
+KSA-TL00,#移动 4G+ 版,honor
+L5,#5G,letv
+L681C,#电信版 #China Telecom,meizu
+L681H,魅族 M3 note 国际版 #Global,meizu
+L681M,#移动版 #China Mobile,meizu
+L681Q,#公开版 #China,meizu
+LDN-AL00,#全网通标配版,huawei
+LDN-AL10,#全网通 NFC 版,huawei
+LDN-AL20,#全网通高配版,huawei
+LDN-L21,#Dual SIM,huawei
+LDN-LX2,#,huawei
+LDN-LX3,#Dual SIM,huawei
+LDN-TL00,#移动 4G+ 标配版,huawei
+LDN-TL10,#移动 4G+ NFC 版,huawei
+LDN-TL20,#移动 4G+ 高配版,huawei
+LE2100,#全网通版 #China,oneplus
+LE2101,#印度版 #India,oneplus
+LE2110,#全网通版 #China,oneplus
+LE2111,#印度版 #India,oneplus
+LE2113,#欧洲版 #EU,oneplus
+LE2115,#北美版/国际版 #North America / Global,oneplus
+LE2117,#T-Mobile 版 #T-Mobile,oneplus
+LE2119,#Verzion 版 #Verzion,oneplus
+LE2120,#全网通版 #China,oneplus
+LE2121,#印度版 #India,oneplus
+LE2123,#欧洲版 #EU,oneplus
+LE2125,#北美版/国际版 #North America / Global,oneplus
+LE2127,#T-Mobile 版 #T-Mobile,oneplus
+LEX622,#全网通版,letv
+LEX623,#未知版本,letv
+LEX626,#全网通版,letv
+LEX650,#生态版,letv
+LEX651,#标准版,letv
+LEX652,#未知版本,letv
+LEX656,#未知版本,letv
+LEX658,#移动定制版,letv
+LEX659,#未知版本,letv
+LEX720,#全网通版,letv
+LEX722,#精英版,letv
+LEX726,#未知版本,letv
+LEX728,#移动定制版,letv
+LEX850,#,letv
+LFT-AN00,#,zhixuan
+LGE-AN00,#5G,honor
+LGE-AN10,#5G,honor
+LGE-AN20,#5G,honor
+LGE-NX9,#5G,honor
+LGN-AN00,#5G,zhixuan
+LIO-AL00,#全网通版,huawei
+LIO-AN00,#5G 全网通版,huawei
+LIO-AN00P,#,huawei
+LIO-AN00m,#5G,huawei
+LIO-L09,#Single SIM,huawei
+LIO-L29,#Dual SIM,huawei
+LIO-N29,#5G Dual SIM #Dual SIM,huawei
+LIO-TL00,#移动 4G+ 版,huawei
+LIO-TN00,#5G 移动版,huawei
+LLD-AL00,#全网通版,honor
+LLD-AL10,#全网通版 #,honor
+LLD-AL20,#全网通版 (4GB+64GB) #,honor
+LLD-AL30,#全网通版,honor
+LLD-L31,#,honor
+LLD-TL10,#移动 4G+ 版,honor
+LNA-AL00,#,huawei
+LNA-LX9,#,huawei
+LND-AL30,#全网通标配版 #,honor
+LND-AL40,#全网通高配版,honor
+LND-L29,#,honor
+LND-TL30,#移动 4G+ 标配版,honor
+LND-TL40,#移动 4G+ 高配版,honor
+LON-AL00,# #,huawei
+LON-L29,#Dual SIM #Dual SIM,huawei
+LRA-AL00,#全网通版,honor
+LRA-TL00,#移动 4G+ 版,honor
+LSA-AN00,#5G,honor
+LYA-AL00,#全网通版,huawei
+LYA-AL00P,#,huawei
+LYA-AL10,#全网通版 (8GB+256GB),huawei
+LYA-L09,#Single SIM,huawei
+LYA-L0C,#Single SIM,huawei
+LYA-L29,#Dual SIM #Dual SIM,huawei
+LYA-TL00,#移动 4G+ 版,huawei
+Le X520,#全网通版,letv
+Le X521,#全网通版,letv
+Le X525,#全网通版,letv
+Le X528,#移动定制版,letv
+Le X529,#未知版本,letv
+Le X620,#全网通版,letv
+Le X621,#全网通版,letv
+Le X625,#全网通版,letv
+Le X820,#全网通版,letv
+Le X822,#电信定制版,letv
+Lenovo K320t,#,lenovo
+Lenovo K350t,#,lenovo
+Lenovo K520,#,lenovo
+Lenovo K520t,#移动版,lenovo
+Lenovo L18011,#,lenovo
+Lenovo L38011,#,lenovo
+Lenovo L38012,#,lenovo
+Lenovo L38021,#移动版,lenovo
+Lenovo L38031,#,lenovo
+Lenovo L38041,#,lenovo
+Lenovo L38082,#,lenovo
+Lenovo L38111,#,lenovo
+Lenovo L58041,#,lenovo
+Lenovo L58091,#GT,lenovo
+Lenovo L70081,#,lenovo
+Lenovo L71061,#,lenovo
+Lenovo L71091,#,lenovo
+Lenovo L78011,#,lenovo
+Lenovo L78012,#,lenovo
+Lenovo L78031,#,lenovo
+Lenovo L78032,#GT,lenovo
+Lenovo L78051,#,lenovo
+Lenovo L78071,#,lenovo
+Lenovo L78121,#,lenovo
+Lenovo L79031,#,lenovo
+Lenovo L79041,#,lenovo
+Letv L6,#,letv
+Letv L6B,#,letv
+Letv L7,#,letv
+Letv L8,#5G,letv
+Letv X500,#通用版,letv
+Letv X501,#太子妃版,letv
+Letv X502,#未知版本,letv
+Letv X508,#移动定制版,letv
+Letv X600,#通用版,letv
+Letv X608,#移动定制版,letv
+Letv X800,#通用版,letv
+Letv X800+,#全网通版,letv
+Letv X900,#通用版,letv
+Letv X900+,#全网通版,letv
+Letv X906,#电信定制版,letv
+Letv X910,#,letv
+M030,# #Dual Core,meizu
+M031,#新版 #(Dual Core) (New),meizu
+M032,# #,meizu
+M040,#联通版 #China Unicom,meizu
+M045,#移动版 #China Mobile,meizu
+M081M,#运营商定制版 #Carrier version,meizu
+M081Q,#公开版 #China,meizu
+M091M,#运营商定制版 #Carrier version,meizu
+M091Q,#公开版 #China,meizu
+M172Q,# #,meizu
+M1803D5XA,#尊享版 (全球频段) #Global,xiaomi
+M1803D5XC,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1803D5XE,#全网通版 #China,xiaomi
+M1803D5XT,#移动 4G+ 版 #China Mobile,xiaomi
+M1803E1A,#全网通版 #,xiaomi
+M1803E1C,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1803E1T,#移动 4G+ 版 #China Mobile,xiaomi
+M1803E6C,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1803E6E,#全网通版 #China,xiaomi
+M1803E6G,#国际版 #Global,xiaomi
+M1803E6H,#国际版 #Global,xiaomi
+M1803E6I,1#印度版 1#India,xiaomi
+M1803E6T,#移动 4G+ 版 #China Mobile,xiaomi
+M1803E7SG,#国际版 #Global,xiaomi
+M1803E7SH,#国际版 #Global,xiaomi
+M1804C3CC,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1804C3CE,#全网通版 #China,xiaomi
+M1804C3CG,#国际版 #Global,xiaomi
+M1804C3CH,#国际版 #Global,xiaomi
+M1804C3CI,#印度版 #India,xiaomi
+M1804C3CT,#移动 4G+ 版 #China Mobile,xiaomi
+M1804C3DC,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1804C3DE,#全网通版 #China,xiaomi
+M1804C3DG,#国际版 #Global,xiaomi
+M1804C3DH,#国际版 #Global,xiaomi
+M1804C3DI,#印度版 #India,xiaomi
+M1804C3DT,#移动 4G+ 版 #China Mobile,xiaomi
+M1804D2SC,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1804D2SE,#全网通版 #China,xiaomi
+M1804D2SG,#国际版 #Global,xiaomi
+M1804D2SI,#印度版 #India,xiaomi
+M1804D2ST,#移动 4G+ 版 #China Mobile,xiaomi
+M1804E4A,#全网通版 #,xiaomi
+M1804E4C,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1804E4T,#移动 4G+ 版 #China Mobile,xiaomi
+M1805D1SC,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1805D1SE,#全网通版 #China,xiaomi
+M1805D1SG,#国际版 #Global,xiaomi
+M1805D1SI,#印度版 #India,xiaomi
+M1805D1ST,#移动 4G+ 版 #China Mobile,xiaomi
+M1805E10A,# #,xiaomi
+M1805E2A,#全网通版 #,xiaomi
+M1806E7TG,#国际版 #Global,xiaomi
+M1806E7TH,#国际版 #Global,xiaomi
+M1806E7TI,#印度版 #India,xiaomi
+M1807E8A,# #,xiaomi
+M1807E8S,# #,xiaomi
+M1808D2TC,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1808D2TE,#全网通版 #China,xiaomi
+M1808D2TG,#Lite 国际版 #Global,xiaomi
+M1808D2TT,#移动 4G+ 版 #China Mobile,xiaomi
+M1810E5A,#全网通版 (全球频段) #Global,xiaomi
+M1810E5E,#全网通版 #China,xiaomi
+M1810E5GG,# #,xiaomi
+M1810F6G,#国际版 #Global,xiaomi
+M1810F6I,#印度版 #India,xiaomi
+M1810F6LE,#全网通版 #China,xiaomi
+M1810F6LG,#国际版 #Global,xiaomi
+M1810F6LH,#国际版 #Global,xiaomi
+M1810F6LI,#印度版 #India,xiaomi
+M1810F6LT,#运营商全网通版 #Chinese Carrier Version,xiaomi
+M181Q,# #,meizu
+M182Q,# #,meizu
+M1901F7BE,#全网通版 #China,xiaomi
+M1901F7C,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1901F7E,#全网通版 #China,xiaomi
+M1901F7G,#国际版 #Global,xiaomi
+M1901F7H,#国际版 #Global,xiaomi
+M1901F7I,#印度版 1#印度版 #India 1#India,xiaomi
+M1901F7S,#印度版 #India,xiaomi
+M1901F7T,#移动 4G+ 版 #China Mobile,xiaomi
+M1901F9E,#全网通版 #,xiaomi
+M1901F9T,#移动 4G+ 版 #China Mobile,xiaomi
+M1902F1A,#全网通版 #China,xiaomi
+M1902F1C,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1902F1G,#国际版 #Global,xiaomi
+M1902F1T,#移动 4G+ 版 #China Mobile,xiaomi
+M1903C3EC,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+M1903C3EE,#全网通版 #China,xiaomi
+M1903C3EG,#国际版 #Global,xiaomi
+M1903C3EH,#国际版 #Global,xiaomi
+M1903C3EI,#印度版 #India,xiaomi
+M1903C3ET,#移动 4G+ 版 #China Mobile,xiaomi
+M1903C3GG,#国际版 #Global,xiaomi
+M1903C3GH,#国际版 #Global,xiaomi
+M1903C3GI,#印度版 #India,xiaomi
+M1903F10A,#全网通版 #China,xiaomi
+M1903F10C,#运营商全网通版 #Chinese Carrier Version,xiaomi
+M1903F10G,#国际版 #Global,xiaomi
+M1903F10I,#印度版 #India,xiaomi
+M1903F11A,#全网通版 #全网通版 #China #China,xiaomi
+M1903F11C,#运营商全网通版 #Chinese Carrier Version,xiaomi
+M1903F11G,#国际版 #Global,xiaomi
+M1903F11I,#印度版 #India,xiaomi
+M1903F2A,#全网通版 #China,xiaomi
+M1903F2G,#国际版 #Global,xiaomi
+M1904F3BC,#全网通版 #China,xiaomi
+M1904F3BG,#国际版 #Global,xiaomi
+M1904F3BT,# #China,xiaomi
+M1906F9SC,#全网通版 #China,xiaomi
+M1906F9SH,#国际版 #Global,xiaomi
+M1906F9SI,#印度版 #India,xiaomi
+M1906G7E,#全网通版 #China,xiaomi
+M1906G7G,#国际版 #Global,xiaomi
+M1906G7I,#印度版 #India,xiaomi
+M1906G7T,#运营商全网通版 #Chinese Carrier Version,xiaomi
+M1908C3IC,#运营商全网通版 #Chinese Carrier Version,xiaomi
+M1908C3IE,#全网通版 #China,xiaomi
+M1908C3IG,#国际版 #Global,xiaomi
+M1908C3IH,#国际版 #Global,xiaomi
+M1908C3II,#印度版 #India,xiaomi
+M1908C3JC,#运营商全网通版 #Chinese Carrier Version,xiaomi
+M1908C3JE,#全网通版 #China,xiaomi
+M1908C3JG,#国际版 #Global,xiaomi
+M1908C3JGG,#国际版 #Global,xiaomi
+M1908C3JH,#国际版 #Global,xiaomi
+M1908C3JI,#印度版 #India,xiaomi
+M1908C3KE,#全网通版 #China,xiaomi
+M1908C3KG,#国际版 #Global,xiaomi
+M1908C3KH,#国际版 #Global,xiaomi
+M1908C3KI,#印度版 #India,xiaomi
+M1908C3XG,#国际版 #Global,xiaomi
+M1908F1XE,#5G 全网通版 #5G China,xiaomi
+M1910F4E,#全网通版 #China,xiaomi
+M1910F4G,#国际版 #Global,xiaomi
+M1910F4S,#Pro 国际版 #Pro Global,xiaomi
+M1912G7BC,#运营商全网通版 #Chinese Carrier Version,xiaomi
+M1912G7BE,#全网通版 #China,xiaomi
+M1912G7BI,#印度版 #India,xiaomi
+M191Q,# #,meizu
+M192Q,# #,meizu
+M2001C3K3I,#印度版 1#国际版 #India 1#Global,xiaomi
+M2001G7AC,#全网通版 #全网通版 #China #China,xiaomi
+M2001G7AE,#全网通版 #极速版 #China #Speed China,xiaomi
+M2001J11C,#全网通版 #变焦版 全网通版 #China #China,xiaomi
+M2001J11E,#变焦版 全网通版 #China,xiaomi
+M2001J1C,#全网通版 #China,xiaomi
+M2001J1E,#全网通版 #China,xiaomi
+M2001J1G,#国际版 #Global,xiaomi
+M2001J2C,#全网通版 #China,xiaomi
+M2001J2E,#全网通版 #China,xiaomi
+M2001J2G,#国际版 #Global,xiaomi
+M2001J2I,#印度版 #India,xiaomi
+M2002F4LG,#国际版 #Global,xiaomi
+M2002J9E,#全网通版 #China,xiaomi
+M2002J9G,#国际版 #Global,xiaomi
+M2002J9R,#日本版 (KDDI) #Japan (KDDI),xiaomi
+M2002J9S,#韩国版 #Korea,xiaomi
+M2003J15SC,#全网通版 #China,xiaomi
+M2003J15SG,#国际版 (NFC) #Global (NFC),xiaomi
+M2003J15SI,#印度版 #India,xiaomi
+M2003J15SS,#国际版 #Global,xiaomi
+M2003J6A1G,1#国际版 1#Global,xiaomi
+M2003J6A1I,#印度版 #India,xiaomi
+M2003J6A1R,1#日本版 1#韩国版 1#Japan 1#Korea,xiaomi
+M2003J6B1I,#印度版 #India,xiaomi
+M2003J6B2G,#国际版 #Global,xiaomi
+M2003J6CI,#印度版 #India,xiaomi
+M2004J11G,#国际版 #Global,xiaomi
+M2004J19AG,#国际版 (NFC) #Global (NFC),xiaomi
+M2004J19C,#全网通版 #China,xiaomi
+M2004J19G,#国际版 #Global,xiaomi
+M2004J19I,1#印度版 1#India,xiaomi
+M2004J19PI,#印度版 #India,xiaomi
+M2004J7AC,#全网通版 #China,xiaomi
+M2004J7BC,#全网通版 #China,xiaomi
+M2006C3LC,#全网通版 #China,xiaomi
+M2006C3LG,#国际版 #Global,xiaomi
+M2006C3LI,#印度版 #Sport 印度版 #India #Sport India,xiaomi
+M2006C3LII,2#印度版 2#Sport 印度版 2#India 2#Sport India,xiaomi
+M2006C3LVG,1#国际版 1#Global,xiaomi
+M2006C3MG,#国际版 #Global,xiaomi
+M2006C3MI,#印度版 #India,xiaomi
+M2006C3MII,#印度版 1#印度版 #India 1#India,xiaomi
+M2006C3MNG,#国际版 #Global,xiaomi
+M2006C3MT,#泰国版 #Thailand,xiaomi
+M2006J10C,#全网通版 #China,xiaomi
+M2007J17C,#5G 全网通版 #5G China,xiaomi
+M2007J17G,#国际版 #Global,xiaomi
+M2007J17I,#印度版 #India,xiaomi
+M2007J1SC,#全网通版 #China,xiaomi
+M2007J20CG,#国际版 #Global,xiaomi
+M2007J20CI,#印度版 #India,xiaomi
+M2007J20CT,#泰国版 #Thailand,xiaomi
+M2007J22C,#5G 全网通版 #China,xiaomi
+M2007J22G,#5G 国际版 #5G Global,xiaomi
+M2007J22R,#5G 日本版 (SoftBank) #5G Japan (SoftBank),xiaomi
+M2007J3SC,#全网通版 #China,xiaomi
+M2007J3SG,#国际版 #Global,xiaomi
+M2007J3SI,#印度版 #India,xiaomi
+M2007J3SP,#印度版 #India,xiaomi
+M2007J3SY,#国际版 #Global,xiaomi
+M2010J19CG,#国际版 #Global,xiaomi
+M2010J19CI,#印度版 #India,xiaomi
+M2010J19CT,#泰国版 #Thailand,xiaomi
+M2010J19SC,#全网通版 #China,xiaomi
+M2010J19SG,#国际版 #Global,xiaomi
+M2010J19SI,1#印度版 1#India,xiaomi
+M2010J19SL,#拉美版 #Latin America,xiaomi
+M2010J19SR,#日本版 #Japan,xiaomi
+M2010J19ST,#泰国版 #Thailand,xiaomi
+M2010J19SY,#国际版 (NFC) #Global (NFC),xiaomi
+M2011J18C,# #China,xiaomi
+M2011K2C,#全网通版 #China,xiaomi
+M2011K2G,#国际版 #Global,xiaomi
+M2012K10C,#全网通版 #China,xiaomi
+M2012K11AC,#全网通版 #China,xiaomi
+M2012K11AG,#国际版 #Global,xiaomi
+M2012K11AI,#印度版 #India,xiaomi
+M2012K11C,#全网通版 1#全网通版 #China 1#China,xiaomi
+M2012K11G,#国际版 #Global,xiaomi
+M2012K11I,#印度版 #India,xiaomi
+M2101K6G,#国际版 #Global,xiaomi
+M2101K6I,1#印度版 1#India,xiaomi
+M2101K6P,#印度版 #India,xiaomi
+M2101K6R,#日本版 #Japan,xiaomi
+M2101K6T,#泰国版 #Thailand,xiaomi
+M2101K7AG,#国际版 #Global,xiaomi
+M2101K7AI,#印度版 #India,xiaomi
+M2101K7BG,#国际版 #Global,xiaomi
+M2101K7BI,#印度版 #India,xiaomi
+M2101K7BL,#拉美版 #Latin America,xiaomi
+M2101K7BNY,#国际版 (NFC) #Global (NFC),xiaomi
+M2101K9AG,#4G 国际版 #4G Global,xiaomi
+M2101K9AI,#4G 印度版 #4G India,xiaomi
+M2101K9C,#全网通版 #China,xiaomi
+M2101K9G,#Lite 5G 国际版 #Global,xiaomi
+M2101K9R,#Lite 5G 日本版 #Japan,xiaomi
+M2102J20SG,#国际版 #Global,xiaomi
+M2102J20SI,#印度版 #India,xiaomi
+M2102J2SC,#全网通版 #China,xiaomi
+M2102K1AC,#全网通版 #China,xiaomi
+M2102K1C,#全网通版 #China,xiaomi
+M2102K1G,#国际版 #Global,xiaomi
+M2103K19C,#全网通版 2#全网通版 #China 2#5G China,xiaomi
+M2103K19G,#国际版 #Global,xiaomi
+M2103K19I,1#5G 印度版 1#5G India,xiaomi
+M2103K19PG,#国际版 #Global,xiaomi
+M2103K19PI,#印度版 #India,xiaomi
+M2103K19PY,#国际版 #Global,xiaomi
+M2103K19Y,1#国际版 1#Global,xiaomi
+M2104K10AC,#5G 全网通版 #5G China,xiaomi
+M2104K10I,#印度版 #India,xiaomi
+M2104K19J,#日本版 (KDDI) #Japan (KDDI),xiaomi
+M2110,# #,meizu
+M2111,# #,meizu
+M351,#联通版 (16GB) #16GB China Unicom,meizu
+M353,#联通版 (32GB/64GB) #32GB / 64GB China Unicom,meizu
+M355,#移动版 (16GB) #16GB China Mobile,meizu
+M356,#移动版 (32GB/64GB) #32GB / 64GB China Mobile,meizu
+M381Q,# #,meizu
+M391Q,# #,meizu
+M392Q,# #,meizu
+M460,#移动版 #China Mobile,meizu
+M460A,#YunOS 版 #YunOS Edition,meizu
+M460H,#国际版 #Global,meizu
+M461,#联通版 #China Unicom,meizu
+M462,#移动版 #China Mobile,meizu
+M462H,#国际版 #Global,meizu
+M462U,#联通版 #China Unicom,meizu
+M463C,#电信版 #China Telecom,meizu
+M463H,魅族 m1 note 国际版 #Global,meizu
+M463M,#移动版 #China Mobile,meizu
+M463U,#联通版 #China Unicom,meizu
+M465A,#YunOS 版 #YunOS Edition,meizu
+M465M,#移动版 #China Mobile,meizu
+M570C,#电信版 #China Telecom,meizu
+M570H,#国际版 #Global,meizu
+M570M,#移动版 #China Mobile,meizu
+M570Q,#公开版 #China,meizu
+M570Q-S,# #,meizu
+M571,#公开版 #China,meizu
+M571C,#电信版 #China Telecom,meizu
+M571H,魅族 m2 note 国际版 #Global,meizu
+M571M,#移动版 #China Mobile,meizu
+M571U,#联通版 #China Unicom,meizu
+M575,#公开版 #China,meizu
+M575H,#国际版 #Global,meizu
+M575M,#移动版 #China Mobile,meizu
+M575U,#联通版 #China Unicom,meizu
+M576,#公开版 #China,meizu
+M576H,#国际版 #Global,meizu
+M576U,#联通版 #China Unicom,meizu
+M578,#公开版 #China,meizu
+M578A,#YunOS 公开版 #YunOS Edition,meizu
+M578C,#电信版 #China Telecom,meizu
+M578CA,#YunOS 电信版 #YunOS Edition China Telecom,meizu
+M578CE,#电信定制版 #China Telecom,meizu
+M578H,魅族 m2 国际版 #Global,meizu
+M578M,#移动版 #China Mobile,meizu
+M578MA,#YunOS 移动版 #YunOS Edition China Mobile,meizu
+M578U,#联通版 #China Unicom,meizu
+M57A,#公开版 #China,meizu
+M57AC,#电信版 #China Telecom,meizu
+M57AM,#移动版 #China Mobile,meizu
+M57AU,#联通版 #China Unicom,meizu
+M611A,#公开版 #China,meizu
+M611D,#电信版 #China Telecom,meizu
+M611H,魅族 M5 国际版 #Global,meizu
+M611Y,#移动版 #China Mobile,meizu
+M612C,#电信版 #China Telecom,meizu
+M612H,魅族 M5s 国际版 #Global,meizu
+M612M,#移动版 #China Mobile,meizu
+M612Q,#公开版 #China,meizu
+M621C,#电信版 #China Telecom,meizu
+M621C-S,#电信版 #China Telecom,meizu
+M621H,魅族 M5 Note 国际版 #Global,meizu
+M621M,#移动版 #China Mobile,meizu
+M621Q,#公开版 #China,meizu
+M681C,#电信版 #China Telecom,meizu
+M681H,魅族 M3 note 国际版 #Global,meizu
+M681M,#移动版 #China Mobile,meizu
+M681Q,#公开版 #China,meizu
+M682Q,# #,meizu
+M685C,#电信版 #China Telecom,meizu
+M685H,#国际版 #Global,meizu
+M685M,#移动版 #China Mobile,meizu
+M685Q,#公开版 #China,meizu
+M685U,#联通版 #China Unicom,meizu
+M686,#64GB #64GB China,meizu
+M686G,#128GB #128GB China,meizu
+M686H,#国际版 #Global,meizu
+M688C,#电信版 #China Telecom,meizu
+M688M,#移动定制版 #China Mobile,meizu
+M688Q,#公开版 #China,meizu
+M688U,#联通版 #China Unicom,meizu
+M710H,魅族 M5c 国际版 #Global,meizu
+M710M,#移动定制版 #China Mobile,meizu
+M711C,#电信版 #China Telecom,meizu
+M711H,魅族 M6 国际版 #Global,meizu
+M711M,#移动版 #China Mobile,meizu
+M711Q,#公开版 #China,meizu
+M712C,#电信版 #China Telecom,meizu
+M712H,魅族 M6s 国际版 #Global,meizu
+M712M,#移动版 #China Mobile,meizu
+M712Q,#公开版 #China,meizu
+M712Q-B,#公开版 #China,meizu
+M721C,#电信版 #China Telecom,meizu
+M721H,魅族 M6 Note 国际版 #Global,meizu
+M721M,#移动版 #China Mobile,meizu
+M721Q,#公开版 #China,meizu
+M741A,#公开版 #China,meizu
+M741Y,#移动版 #China Mobile,meizu
+M792C,#电信版 (128GB) #128GB China Telecom,meizu
+M792C-L,#电信版 (64GB) #64GB China Telecom,meizu
+M792H,#国际版 #Global,meizu
+M792M-L,#移动版 (64GB) #64GB China Mobile,meizu
+M792Q,#公开版 (128GB) #128GB China,meizu
+M792Q-L,#公开版 (64GB) #64GB China,meizu
+M793H,#国际版 #Global,meizu
+M793Q,#公开版 #China,meizu
+M8,# #,meizu
+M810H,#国际版 #Global,meizu
+M811H,魅族 M6T 国际版 #Global,meizu
+M811Q,#公开版 #China,meizu
+M813H,#M8 国际版 #Global,meizu
+M813Q,# #V8 Pro China,meizu
+M816H,#M8 Lite 国际版 #Global,meizu
+M816Q,# #V8 China,meizu
+M818H,#国际版 #Global,meizu
+M819H,#国际版 #Global,meizu
+M822H,#国际版 #Global,meizu
+M822Q,#公开版 #China,meizu
+M851M,#移动版 #China Mobile,meizu
+M851Q,#公开版 #China,meizu
+M852H,#国际版 #Global,meizu
+M852Q,#公开版 #China,meizu
+M871H,#15 Lite 国际版 #Global,meizu
+M871Q,#公开版 #M15 China,meizu
+M872H,#国际版 #Global,meizu
+M872Q,#公开版 #X China,meizu
+M881H,#国际版 #Global,meizu
+M881M,#移动版 #China Mobile,meizu
+M881Q,#公开版 #China,meizu
+M882H,#国际版 #Global,meizu
+M882Q,#公开版 #China,meizu
+M891H,#国际版 #Global,meizu
+M891Q,#公开版 #China,meizu
+M892Q,#公开版 #China,meizu
+M8SE,#SE #SE,meizu
+M9,# #,meizu
+M918H,#国际版 #Global,meizu
+M923H,#国际版 #Global,meizu
+M923Q,#公开版 #China,meizu
+M926H,#国际版 #Global,meizu
+M926Q,#公开版 #China,meizu
+M928Q,#公开版 #China,meizu
+M971H,#国际版 #Global,meizu
+M971Q,#公开版 #China,meizu
+M973Q,#公开版 #China,meizu
+MAE136,#全网通版 #China,xiaomi
+MAG138,#国际版 #Global,xiaomi
+MAI132,#印度版 #India,xiaomi
+MAO-AL00,#,huawei
+MAO-LX9,#,huawei
+MAO-LX9N,#,huawei
+MAR-AL00,#全网通版,huawei
+MAR-LX1A,#,huawei
+MAR-LX1Am,#,huawei
+MAR-LX1B,#,huawei
+MAR-LX1M,#,huawei
+MAR-LX1Mm,#,huawei
+MAR-LX2,#,huawei
+MAR-LX2B,#,huawei
+MAR-LX2J,#,huawei
+MAR-LX2m,#,huawei
+MAR-LX3A,#,huawei
+MAR-LX3Am,#,huawei
+MAR-LX3Bm,#,huawei
+MAR-TL00,#移动 4G+ 版,huawei
+MAT136,#移动 4G+ 版 #China Mobile,xiaomi
+MBE6A5,#MTK 全网通版 #Mediatek,xiaomi
+MBT6A5,#MTK 移动 4G+ 版 #(Mediatek) China Mobile,xiaomi
+MCE16,#全网通版 #,xiaomi
+MCE3B,#全网通版 #China,xiaomi
+MCE8,#全网通版 #,xiaomi
+MCG3B,#国际版 #Global,xiaomi
+MCI3B,#印度版 #India,xiaomi
+MCT1,#移动 4G+ 版 #China Mobile,xiaomi
+MCT3B,#移动 4G+ 版 #China Mobile,xiaomi
+MCT8,#移动 4G+ 版 #China Mobile,xiaomi
+MDE1,#全网通版 #China,xiaomi
+MDE2,#全网通版 #China,xiaomi
+MDE40,#全网通版 #,xiaomi
+MDE5,#黑色陶瓷版 全网通版 #,xiaomi
+MDE5S,#全陶瓷尊享版 #Unibody Ceramic Edition,xiaomi
+MDE6,#全网通 标准版 #China,xiaomi
+MDE6S,#全网通 高配版 #Prime China,xiaomi
+MDG1,#国际版 #Global,xiaomi
+MDG2,#国际版 #Global,xiaomi
+MDG6,#国际版 标准版 #Global,xiaomi
+MDG6S,#国际版 高配版 #Prime Global,xiaomi
+MDI1,#印度版 #India,xiaomi
+MDI2,#印度版 #India,xiaomi
+MDI40,#印度版 #India,xiaomi
+MDI6,1#印度版 1#India,xiaomi
+MDI6S,1#印度版 1#India,xiaomi
+MDT1,#移动 4G+ 版 #China Mobile,xiaomi
+MDT2,#移动 4G+ 版 #China Mobile,xiaomi
+MDT4,#移动 4G+ 版 #China Mobile,xiaomi
+MDT5,#黑色陶瓷版 移动 4G+ 版 #China Mobile,xiaomi
+MDT6,#移动 4G+ 标准版 #China Mobile,xiaomi
+MDT6S,#移动 4G+ 高配版 #Prime China Mobile,xiaomi
+MEC7S,#联通电信定制版 #China Unicom & China Telecom,xiaomi
+MED-AL00,#全网通版,huawei
+MED-AL20,#全网通版,huawei
+MED-LX9,#Single SIM #Dual SIM,huawei
+MED-LX9N,#Dual SIM,huawei
+MED-TL00,#移动 4G+ 版,huawei
+MEE7,#全网通版 #China,xiaomi
+MEE7S,#全网通版 #China,xiaomi
+MEG7,#国际版 #Global,xiaomi
+MEI7,#印度版 #India,xiaomi
+MEI7S,1#印度版 1#India,xiaomi
+MET7,#移动 4G+ 版 #China Mobile,xiaomi
+MET7S,#移动 4G+ 版 #China Mobile,xiaomi
+MGA-AL00,#,huawei
+MGA-AL40,#,huawei
+MGA-LX3,# 1# 2#,huawei
+MGA-LX9,# 1# 2#,huawei
+MGA-LX9N,# 1# 2#,huawei
+MGI-AN00,#5G,honor
+MGZ-BD00,#5G,zhixuan
+MHA-AL00,#全网通版,huawei
+MHA-L09,#Single SIM,huawei
+MHA-L29,#Dual SIM,huawei
+MHA-TL00,#移动 4G+ 版,huawei
+MI-ONE,#青春版 #Lite,xiaomi
+MI-ONE C1,#电信版 #CDMA,xiaomi
+MI-ONE PLUS,#联通版 #WCDMA,xiaomi
+MIZ-BD00,#5G,zhixuan
+MLA-L01,#,huawei
+MLA-L02,#,huawei
+MLA-L03,#,huawei
+MLA-L11,#,huawei
+MLA-L12,#,huawei
+MLA-L13,#,huawei
+MLD-AL00,#麒麟 710A,huawei
+MLD-AL10,#Helio P35,huawei
+MNA-AL00,# #,huawei
+MNA-LX9,#,huawei
+MNT-BD00,#5G,zhixuan
+MOA-AL00,#全网通版,honor
+MOA-AL20,#全网通版,honor
+MOA-LX9N,#,honor
+MOA-TL00,#移动 4G+ 版,honor
+MRD-AL00,#全网通版,huawei
+MRD-LX1,#Single SIM #Dual SIM,huawei
+MRD-LX1F,#Dual SIM,huawei
+MRD-LX1N,#Dual SIM,huawei
+MRD-LX3,#Single SIM #Dual SIM,huawei
+MRD-TL00,#移动 4G+ 版,huawei
+MT2110,#全网通版 #China,oneplus
+MT2111,#印度版 #India,oneplus
+MT7-L09,#Single SIM,huawei
+MT7-TL10,#Dual SIM,huawei
+MTS-T0,#,coolpad
+MXW-AN00,#5G 全网通版,honor
+MXW-TN00,#5G 移动定制版,honor
+MYA-AL10,#全网通版,honor
+MYA-L11,#Single SIM,huawei
+MYA-L41,#Dual SIM,huawei
+MYA-TL10,#移动定制版,honor
+NAM-AL00,#,huawei
+NAM-LX9,#,huawei
+NAT-TN70,#,zhixuan
+NCE-AL00,#全网通版,huawei
+NCE-AL10,#全网通版,huawei
+NCE-TL00,#移动 4G+ 版,huawei
+NCE-TL10,#移动 4G+ 版,huawei
+NCO-AL00,#,huawei
+NCO-LX1,#,huawei
+NCO-LX3,#,huawei
+NE2210,#全网通版 #China,oneplus
+NE2211,#印度版 #India,oneplus
+NE2213,#欧洲版/国际版 #EU / Global,oneplus
+NE2215,#北美版 #North America,oneplus
+NE2217,#T-Mobile 版 #T-Mobile,oneplus
+NEM-AL10,#全网通版,honor
+NEM-L21,#,honor
+NEM-L22,#,honor
+NEM-L51,#,honor
+NEM-TL00,#移动定制版,honor
+NEM-TL00H,#移动公开版,honor
+NEM-UL00,#双 4G 版,honor
+NEN-L22,#,huawei
+NEN-LX1,#,huawei
+NEN-LX3,#,huawei
+NEO-AL00,#,huawei
+NEO-L29,#Dual SIM,huawei
+NEW-AN90,#5G,honor
+NOH-AL00,#4G,huawei
+NOH-AL10,#4G,huawei
+NOH-AN00,#5G,huawei
+NOH-AN01,#5G,huawei
+NOH-AN50,#5G,huawei
+NOH-AN80,#5G,huawei
+NOH-NX9,#5G Dual SIM,huawei
+NOP-AN00,#5G #,huawei
+NTH-AN00,#5G,honor
+NTH-NX9,#5G,honor
+NTN-AN20,#5G,honor
+NTN-L22,#5G,honor
+NTN-LX1,#5G,honor
+NTN-LX3,#5G,honor
+NTS-AL00,#全网通版,honor
+NX301J,#,nubia
+NX401,#,nubia
+NX402,#,nubia
+NX403A,#,nubia
+NX501,#,nubia
+NX503A,#,nubia
+NX503J,#,nubia
+NX505H,#双 4G 版,nubia
+NX505J,#全网通版,nubia
+NX506J,#,nubia
+NX507H,#双 4G 版,nubia
+NX507J,#全网通版,nubia
+NX508H,#双 4G 版,nubia
+NX508J,#全网通版,nubia
+NX510J,#全网通版,nubia
+NX511H,#双 4G 版,nubia
+NX511J,#全网通版,nubia
+NX512H,#双 4G 版,nubia
+NX512J,#极速版,nubia
+NX513H,#双 4G 版,nubia
+NX513J,#全网通版,nubia
+NX518J,#精英版,nubia
+NX523J,#,nubia
+NX529J,#,nubia
+NX531J,#,nubia
+NX535J,#经典版,nubia
+NX541J,#,nubia
+NX549J,#,nubia
+NX551J,#,nubia
+NX563J,#,nubia
+NX569H,#高配版,nubia
+NX569J,#标准版,nubia
+NX573J,#,nubia
+NX575J,#,nubia
+NX589J,#,nubia
+NX591J,#,nubia
+NX595J,#,nubia
+NX601J,#,nubia
+NX606J,#,nubia
+NX608J,#,nubia
+NX609J,#,nubia
+NX611J,#,nubia
+NX612J,#,nubia
+NX616J,#,nubia
+NX617J,#,nubia
+NX619J,#,nubia
+NX627J,#,nubia
+NX629J,# #,nubia
+NX651J,#,nubia
+NX659J,# #,nubia
+NX666J,#,nubia
+NX667J,#,nubia
+NX669J,#,nubia
+NX669J-P,#,nubia
+NX669J-S,#,nubia
+NX679J,#,nubia
+NX679S,#,nubia
+NX701J,#,nubia
+NX702J,#,nubia
+NX709J,#,nubia
+NX709S,#,nubia
+NX711J,#,nubia
+NX712J,#,nubia
+NX713J,#,nubia
+NX729J,# 1#,nubia
+NX729S,# 1#,nubia
+NX907J,#,nubia
+NXT-L09,#Single SIM,huawei
+NXT-L29,#Dual SIM,huawei
+NZA-AL00,#,honor
+OC105,#公开版,smartisan
+OC106,#移动定制版,smartisan
+OCE-AL50,#4G,huawei
+OCE-AN10,#5G,huawei
+OCE-AN50,#5G,huawei
+OD103,#32GB/64GB,smartisan
+OD105,#128GB,smartisan
+OE106,#,smartisan
+ONE A0001,#移动版 #,oneplus
+ONE A1001,#联通版 #,oneplus
+ONE A2001,# #China,oneplus
+ONE A2003,#国际版 #Global,oneplus
+ONE A2005,#北美版 #North America,oneplus
+ONE E1000,#全网通版 #China,oneplus
+ONE E1001,#移动/联通版 #China,oneplus
+ONE E1003,#国际版 #Global,oneplus
+ONE E1005,#北美版 #North America,oneplus
+ONEPLUS A3000,#全网通版 #China / North America,oneplus
+ONEPLUS A3003,#国际版 #Global,oneplus
+ONEPLUS A3010,#全网通版 #China,oneplus
+ONEPLUS A3013,#国际版 #Global,oneplus
+ONEPLUS A5000,#全网通版 #,oneplus
+ONEPLUS A5010,#全网通版 #,oneplus
+ONEPLUS A6000,#全网通版 #China,oneplus
+ONEPLUS A6003,#国际版 #Global,oneplus
+ONEPLUS A6010,#全网通版 #China,oneplus
+ONEPLUS A6013,#国际版 #Global,oneplus
+OPG01,#KDDI,oppo
+OPG02,#5G (KDDI),oppo
+OPG03,#KDDI,oppo
+OPG04,#KDDI,oppo
+ORL-C0,# 1#,coolpad
+ORL-T0,#,coolpad
+OS103,#特别版,smartisan
+OS105,#,smartisan
+OXF-AN00,#5G,honor
+OXF-AN10,#5G #5G,honor
+OXF-N29,#5G,honor
+OXP-AN00,#5G,honor
+P6-U06,#Single SIM,huawei
+P7-L10,#,huawei
+P7-L11,#,huawei
+P7-L12,#,huawei
+PAAM00,#全网通版,oppo
+PAAT00,#移动版,oppo
+PACM00,#全网通版,oppo
+PACT00,#移动版,oppo
+PADM00,#全网通版,oppo
+PADT00,#移动版,oppo
+PAFM00,#标准版 全网通版,oppo
+PAFT00,#标准版 移动版,oppo
+PAFT10,#超级闪充版 移动版,oppo
+PAHM00,#超级闪充版/兰博基尼版 全网通版,oppo
+PAL-AL00,#,huawei
+PAL-AL10,#,huawei
+PAL-L29,#,huawei
+PAL-LX9,#,huawei
+PAR-AL00,#全网通版,huawei
+PAR-L21,#,huawei
+PAR-L29,#,huawei
+PAR-LX1,#,huawei
+PAR-LX1M,#,huawei
+PAR-LX9,#,huawei
+PAR-TL00,#移动 4G+ 版,huawei
+PBAM00,#全网通版,oppo
+PBAT00,#移动版,oppo
+PBBM00,#全网通版,oppo
+PBBM30,#全网通版,oppo
+PBBT00,#移动版,oppo
+PBBT30,#移动版,oppo
+PBCM10,#全网通版,oppo
+PBCM30,#,oppo
+PBCT10,#移动版,oppo
+PBDM00,#全网通版,oppo
+PBDT00,#移动版,oppo
+PBEM00,#全网通版,oppo
+PBET00,#移动版,oppo
+PBFM00,#全网通版,oppo
+PBFT00,#移动版,oppo
+PCAM00,#全网通版,oppo
+PCAM10,#全网通版,oppo
+PCAT00,#移动版,oppo
+PCAT10,#移动版,oppo
+PCCM00,#全网通版,oppo
+PCCT00,#移动版,oppo
+PCDM00,#全网通版,oppo
+PCDM10,#全网通版,oppo
+PCDT00,#移动版,oppo
+PCDT10,#移动版,oppo
+PCEM00,#全网通版,oppo
+PCET00,#移动版,oppo
+PCGM00,#全网通版,oppo
+PCGT00,#移动版,oppo
+PCHM00,#全网通版,oppo
+PCHM10,#全网通版,oppo
+PCHM30,#全网通版,oppo
+PCHT00,#移动版,oppo
+PCHT10,#移动版,oppo
+PCHT30,#移动版,oppo
+PCKM00,#全网通版,oppo
+PCKM80,#全网通版,oppo
+PCKT00,#移动版,oppo
+PCKT80,#移动版,oppo
+PCLM10,#,oppo
+PCLM50,#全网通版 #,oppo
+PCNM00,#全网通版,oppo
+PCNT00,#移动版,oppo
+PCPM00,#全网通版,oppo
+PCPT00,#移动版,oppo
+PCRM00,#全网通版,oppo
+PCRT00,#移动版,oppo
+PCRT01,#移动版,oppo
+PCT-AL10,#全网通版 #,honor
+PCT-L29,#,honor
+PCT-TL10,#移动 4G+ 版,honor
+PDAM10,#全网通版,oppo
+PDAT10,#移动版,oppo
+PDBM00,#全网通版,oppo
+PDBT00,#移动版,oppo
+PDCM00,#全网通版,oppo
+PDCT00,#移动版,oppo
+PDEM10,#全网通版,oppo
+PDEM30,#,oppo
+PDET10,#移动版,oppo
+PDHM00,#,oppo
+PDKM00,#全网通版,oppo
+PDKT00,#移动版,oppo
+PDNM00,#全网通版,oppo
+PDNT00,#移动版,oppo
+PDPM00,#全网通版,oppo
+PDPT00,#移动版,oppo
+PDRM00,#,oppo
+PDSM00,#全网通版,oppo
+PDST00,#移动版,oppo
+PDVM00,# #,oppo
+PDYM10,#,oppo
+PDYM20,#全网通版,oppo
+PDYT20,#移动版,oppo
+PE-CL00,#电信版,honor
+PE-TL00M,#移动定制版,honor
+PE-TL10,#双 4G 高配版 #,honor
+PE-TL20,#移动渠道版,honor
+PE-UL00,#联通版,honor
+PEAM00,#全网通版,oppo
+PEAT00,#移动版,oppo
+PECM20,#(2020) 全网通版,oppo
+PECM30,#(2020) 全网通版,oppo
+PECT30,#(2020) 移动版,oppo
+PEDM00,#,oppo
+PEEM00,#,oppo
+PEFM00,#,oppo
+PEGM00,#全网通版,oppo
+PEGM10,#全网通版,oppo
+PEGT00,#移动版,oppo
+PEGT10,#移动版,oppo
+PEHM00,#全网通版,oppo
+PEHT00,#移动版,oppo
+PELM00,#,oppo
+PEMM00,#全网通版 #,oppo
+PEMM20,#全网通版,oppo
+PEMT00,#移动版,oppo
+PEMT20,#移动版,oppo
+PENM00,#,oppo
+PEPM00,#,oppo
+PEQM00,#,oppo
+PERM00,#,oppo
+PERM10,# 1#,oppo
+PESM10,#,oppo
+PEUM00,#,oppo
+PEXM00,#,oppo
+PEYM00,#,oppo
+PFCM00,#,oppo
+PFDM00,#,oppo
+PFEM10,#,oppo
+PFFM10,#,oppo
+PFFM20,#,oppo
+PFGM00,#,oppo
+PFJM10,#,oppo
+PFTM10,#,oppo
+PFTM20,# #2022,oppo
+PFUM10,#,oppo
+PFVM10,#,oppo
+PFZM10,#,oppo
+PGAM10,#,oppo
+PGBM10,#,oppo
+PGCM10,#,oppo
+PGEM10,#,oppo
+PGFM10,#,oppo
+PGGM10,#,oppo
+PGIM10,#,oppo
+PGJM10,#,oppo
+PGKM10,1#全网通版 1#China,oneplus
+PGP110,#全网通版 1#China,oneplus
+PGT-AN00,#5G,honor
+PGT-AN10,#5G,honor
+PGT-AN20,#5G,honor
+PGT-N09,#5G,honor
+PGT-N19,#5G,honor
+PGT110,#,oppo
+PGU110,#,oppo
+PGW110,#,oppo
+PGX110,#,oppo
+PGZ110,#全网通版 #China,oneplus
+PHA120,#,oppo
+PHB110,#全网通版 #China,oneplus
+PHF110,#,oppo
+PHJ110,# # # 1#,oppo
+PHK110,#全网通版 1#China,oneplus
+PHM110,#,oppo
+PHO-5GT,#5G,coolpad
+PHP110,#全网通版 #China,oneplus
+PHQ110,#,oppo
+PHS110,#2023,oppo
+PHT110,#,oppo
+PHU110,#,oppo
+PHV110,#,oppo
+PHW110,#,oppo
+PIC-AL00,#全网通版,huawei
+PIC-L09,#Single SIM,huawei
+PIC-LX9,#Dual SIM,huawei
+PIC-TL00,#移动 4G+ 版,huawei
+PJA110,#全网通版 #China,oneplus
+PJC110,#,oppo
+PLK-AL10,#全网通高配版,honor
+PLK-CL00,#电信版,honor
+PLK-L01,#,honor
+PLK-TL00,#移动定制版,honor
+PLK-TL01H,#移动渠道版,honor
+PLK-TL11H,#移动增强版,honor
+PLK-UL00,#双 4G 版,honor
+POL-A0,#全网通版,coolpad
+POL-T0,#移动版,coolpad
+POT-AL00,#,huawei
+POT-AL00a,#全网通版,huawei
+POT-AL10,#,huawei
+POT-LX1,#,huawei
+POT-LX1A,#Dual SIM,huawei
+POT-LX1AF,#,huawei
+POT-LX1RU,#,huawei
+POT-LX1T,#,huawei
+POT-LX2J,#Japan,huawei
+POT-LX3,#,huawei
+POT-TL00a,#移动 4G+ 版,huawei
+PPA-AL20,#,huawei
+PPA-LX2,#Dual SIM #Dual SIM,huawei
+PPA-LX3,#Single SIM #Dual SIM,huawei
+PRA-AL00,#全网通标配版,honor
+PRA-AL00X,#全网通高配/顶配版,honor
+PRA-LA1,#,huawei
+PRA-LX1,#,huawei
+PRA-LX2,#,huawei
+PRA-LX3,#,huawei
+PRA-TL10,#移动定制版,honor
+QK001,#5G 1#5G,360
+QSN2112,#,360
+QSN2201,#5G,360
+QSN2207,#5G,360
+QSN2211,# 1#,360
+RBN-NX1,#5G #,honor
+RBN-NX3,#,honor
+REA-AN00,#5G,honor
+REA-NX9,#5G,honor
+REP-AN00,#5G,honor
+RKY-AN00,#5G,honor
+RKY-AN10,#5G,honor
+RKY-LX1,#,honor
+RKY-LX2,#,honor
+RKY-LX3,#,honor
+RMO-AN00,#5G,honor
+RMO-NX1,# #,honor
+RMX1801,#,realme
+RMX1805,# #,realme
+RMX1821,#,realme
+RMX1822,#,realme
+RMX1825,#,realme
+RMX1827,#,realme
+RMX1831,#,realme
+RMX1833,#,realme
+RMX1851,# #,realme
+RMX1853,#,realme
+RMX1901,# #,realme
+RMX1911,#,realme
+RMX1915,#,realme
+RMX1919,#,realme
+RMX1921,#Global,realme
+RMX1922,#India,realme
+RMX1925,# #,realme
+RMX1926,#,realme
+RMX1927,#,realme
+RMX1931,# #,realme
+RMX1941,#,realme
+RMX1942,#,realme
+RMX1943,#,realme
+RMX1945,#,realme
+RMX1946,#,realme
+RMX1971,# #,realme
+RMX1973,#,realme
+RMX1991,#,realme
+RMX1992,#India,realme
+RMX1993,#Global,realme
+RMX2001,#,realme
+RMX2002,#Global #India #Indonesia,realme
+RMX2003,#,realme
+RMX2020,#Global #India,realme
+RMX2021,#Global,realme
+RMX2022,#Global,realme
+RMX2025,#5G 移动版,realme
+RMX2027,#India #Vietnam,realme
+RMX2030,#,realme
+RMX2031,#,realme
+RMX2032,#,realme
+RMX2040,#EU #India,realme
+RMX2041,#Global,realme
+RMX2042,#Global,realme
+RMX2050,#,realme
+RMX2051,#5G 全网通版,realme
+RMX2052,#5G 电信合作版,realme
+RMX2061,#,realme
+RMX2063,#,realme
+RMX2071,#5G,realme
+RMX2072,#,realme
+RMX2075,#Global,realme
+RMX2076,#India,realme
+RMX2081,#India,realme
+RMX2083,#Global,realme
+RMX2085,#India,realme
+RMX2086,#Global,realme
+RMX2101,#,realme
+RMX2103,#India,realme
+RMX2104,#India,realme
+RMX2111,#5G 全网通版 #,realme
+RMX2112,#5G 运营商定制版,realme
+RMX2117,#5G #5G,realme
+RMX2121,#5G #,realme
+RMX2141,#5G,realme
+RMX2142,#5G 运营商定制版,realme
+RMX2144,#Global,realme
+RMX2151,#India,realme
+RMX2155,#Global,realme
+RMX2156,#,realme
+RMX2161,#India,realme
+RMX2163,#Global,realme
+RMX2170,#,realme
+RMX2173,#5G,realme
+RMX2176,#5G,realme
+RMX2180,#,realme
+RMX2181,#,realme
+RMX2183,#,realme
+RMX2184,#,realme
+RMX2185,#,realme
+RMX2186,#,realme
+RMX2189,#,realme
+RMX2191,#Global,realme
+RMX2193,#Global #India,realme
+RMX2195,#,realme
+RMX2200,#5G #5G 全网通版,realme
+RMX2201,#5G 运营商定制版,realme
+RMX2202,#5G #5G,realme
+RMX2205,#5G,realme
+RMX3031,#5G #,realme
+RMX3041,#5G 全网通版,realme
+RMX3042,#5G,realme
+RMX3043,#5G 运营商定制版,realme
+RMX3061,#,realme
+RMX3063,#,realme
+RMX3081,#,realme
+RMX3085,#,realme
+RMX3092,#5G 全网通版 #India,realme
+RMX3093,#5G 运营商定制版,realme
+RMX3115,#5G 全网通版,realme
+RMX3116,#5G 运营商定制版,realme
+RMX3121,#5G 全网通版,realme
+RMX3122,#5G 运营商定制版,realme
+RMX3125,#5G,realme
+RMX3142,#,realme
+RMX3151,#,realme
+RMX3161,#5G,realme
+RMX3171,#,realme
+RMX3191,#,realme
+RMX3193,#,realme
+RMX3195,#,realme
+RMX3197,#,realme
+RMX3201,#,realme
+RMX3202,#,realme
+RMX3203,#,realme
+RMX3231,# #India,realme
+RMX3235,#Global,realme
+RMX3241,#,realme
+RMX3242,#5G,realme
+RMX3261,#,realme
+RMX3262,#,realme
+RMX3263,#,realme
+RMX3265,#,realme
+RMX3269,#,realme
+RMX3286,#,realme
+RMX3300,#,realme
+RMX3301,#5G,realme
+RMX3310,#,realme
+RMX3311,#5G,realme
+RMX3312,#5G,realme
+RMX3350,#,realme
+RMX3357,#,realme
+RMX3360,#,realme
+RMX3361,#,realme
+RMX3363,#,realme
+RMX3366,#,realme
+RMX3370,# #5G,realme
+RMX3371,#,realme
+RMX3372,#,realme
+RMX3381,#,realme
+RMX3388,#India,realme
+RMX3392,#India,realme
+RMX3393,#Global,realme
+RMX3395,#5G India,realme
+RMX3396,#5G Global,realme
+RMX3430,#,realme
+RMX3461,# #India,realme
+RMX3462,#,realme
+RMX3471,#India,realme
+RMX3472,#Global,realme
+RMX3474,#EU,realme
+RMX3475,#,realme
+RMX3478,#,realme
+RMX3491,#India / Global,realme
+RMX3492,#,realme
+RMX3493,#EU,realme
+RMX3501,#,realme
+RMX3502,#,realme
+RMX3503,#,realme
+RMX3506,#,realme
+RMX3511,#,realme
+RMX3512,#,realme
+RMX3513,#,realme
+RMX3516,#,realme
+RMX3517,#,realme
+RMX3521,#,realme
+RMX3551,#,realme
+RMX3560,#80W,realme
+RMX3561,#,realme
+RMX3562,#150W,realme
+RMX3563,#150W,realme
+RMX3571,# #5G India,realme
+RMX3572,#5G Global,realme
+RMX3574,#,realme
+RMX3576,#,realme
+RMX3581,#,realme
+RMX3610,#,realme
+RMX3611,#,realme
+RMX3612,#5G #,realme
+RMX3615,#,realme
+RMX3616,#,realme
+RMX3617,#,realme
+RMX3618,#,realme
+RMX3619,#,realme
+RMX3623,#,realme
+RMX3624,#,realme
+RMX3627,#,realme
+RMX3630,#,realme
+RMX3636,#,realme
+RMX3660,#India,realme
+RMX3661,#Global,realme
+RMX3663,#,realme
+RMX3686,#,realme
+RMX3687,#,realme
+RMX3690,#,realme
+RMX3700,#,realme
+RMX3706,#150W,realme
+RMX3708,#240W,realme
+RMX3709,#240W,realme
+RMX3710,# #,realme
+RMX3740,#,realme
+RMX3741,#,realme
+RMX3750,#5G,realme
+RMX3751,#,realme
+RMX3760,#Global,realme
+RMX3761,#,realme
+RMX3762,#India,realme
+RMX3770,#,realme
+RMX3771,# #5G,realme
+RMX3780,#,realme
+RMX3785,#,realme
+RMX3820,#150W,realme
+RMX3823,#240W,realme
+RMX3830,#,realme
+RNA-AN00,#5G 全网通版,honor
+RNA-TN00,#5G 移动版,honor
+RNE-AL00,#,huawei
+RNE-L01,#Single SIM,huawei
+RNE-L02,#Single SIM,huawei
+RNE-L03,#Single SIM,huawei
+RNE-L21,#Dual SIM,huawei
+RNE-L22,#Dual SIM,huawei
+RNE-L23,#Dual SIM,huawei
+RTE-AL00,#,huawei
+RVL-AL09,#,honor
+S685C,#电信版 #China Telecom,meizu
+S685H,魅族 M3 Max 国际版 #Global,meizu
+S685M,#移动版 #China Mobile,meizu
+S685Q,#公开版 #China,meizu
+SAC-A0,#,coolpad
+SCH-I889,#电信定制版,samsung
+SCH-I919,#电信定制版,samsung
+SCH-I939,#电信定制版,samsung
+SCH-I939D,#电信双卡定制版,samsung
+SCH-I939I,#电信定制版,samsung
+SCH-I959,#电信定制版,samsung
+SCH-N719,#电信定制版,samsung
+SCH-W2013,#,samsung
+SCH-W699,#,samsung
+SCH-W799,#,samsung
+SCH-W899,#,samsung
+SCH-W999,#,samsung
+SCH-i909,#电信定制版,samsung
+SCL-AL00,#全网通版,honor
+SCL-CL00,#电信版,honor
+SCL-TL00,#移动定制版,honor
+SCL-TL00H,#移动渠道版,honor
+SDY-AN00,#5G,honor
+SEA-A0,#,coolpad
+SEA-AL00,#全网通版,huawei
+SEA-AL10,#全网通版,huawei
+SEA-TL00,#移动 4G+ 版,huawei
+SEA-TL10,#移动 4G+ 版,huawei
+SHARK KLE-A0,#全网通版 #全网通版 #China #China,blackshark
+SHARK KLE-H0,黑鲨游戏手机 3 国际版 #Global,blackshark
+SHARK KSR-A0,#全网通版 #全网通版 #全网通版 #China #China #China,blackshark
+SHARK KSR-H0,#国际版 #Global,blackshark
+SHARK KTUS-A0,#全网通版 #China,blackshark
+SHARK KTUS-H0,#国际版 #Global,blackshark
+SHARK MBU-A0,#全网通版 #China,blackshark
+SHARK MBU-H0,黑鲨游戏手机 3 Pro 国际版 #Global,blackshark
+SHARK PAR-A0,#全网通版 #高能版 #China,blackshark
+SHARK PAR-H0,#国际版 #Global,blackshark
+SHARK PRS-A0,#全网通版 #全网通版 #China #China,blackshark
+SHARK PRS-H0,#国际版 #Global,blackshark
+SKR-A0,#全网通版 #China,blackshark
+SKR-H0,#国际版 #Global,blackshark
+SKW-A0,#全网通版 #China,blackshark
+SKW-H0,#国际版 #Global,blackshark
+SLA-AL00,#全网通版,huawei
+SLA-TL10,#移动 4G+ 版,huawei
+SM-A125F,#Global,samsung
+SM-A2070,#,samsung
+SM-A3000,#公开版,samsung
+SM-A3009,#电信定制版,samsung
+SM-A3050,#全网通版,samsung
+SM-A3058,#4G+,samsung
+SM-A5000,#公开版,samsung
+SM-A5009,#电信定制版,samsung
+SM-A5070,#,samsung
+SM-A5100,#全网通版,samsung
+SM-A5108,#移动定制疾速版,samsung
+SM-A5160,#,samsung
+SM-A5260,#,samsung
+SM-A5360,#,samsung
+SM-A5460,#,samsung
+SM-A6050,#全网通版,samsung
+SM-A6058,#4G+,samsung
+SM-A6060,#,samsung
+SM-A7000,#公开版,samsung
+SM-A7009,#电信定制版,samsung
+SM-A7050,#,samsung
+SM-A7070,#,samsung
+SM-A7100,#全网通版,samsung
+SM-A7108,#移动定制疾速版,samsung
+SM-A715F,#Global,samsung
+SM-A7160,#,samsung
+SM-A8000,#,samsung
+SM-A8050,#,samsung
+SM-A9000,#,samsung
+SM-A9080,#,samsung
+SM-A9100,#,samsung
+SM-A9200,#,samsung
+SM-C101,#,samsung
+SM-C5000,#,samsung
+SM-C5010,#全网通版,samsung
+SM-C5018,#4G+,samsung
+SM-C7000,#,samsung
+SM-C7010,#全网通版,samsung
+SM-C7018,#4G+,samsung
+SM-C7100,#全网通版,samsung
+SM-C7108,#4G+,samsung
+SM-C9000,#全网通版,samsung
+SM-C9008,#4G+,samsung
+SM-E5260,#,samsung
+SM-E7000,#公开版,samsung
+SM-E7009,#电信定制版,samsung
+SM-F7000,#,samsung
+SM-F7070,#,samsung
+SM-F7110,#5G,samsung
+SM-F7210,#5G,samsung
+SM-F7310,#5G,samsung
+SM-F9000,#,samsung
+SM-F9160,#5G,samsung
+SM-F9260,#5G,samsung
+SM-F9360,#5G,samsung
+SM-F9460,#5G,samsung
+SM-G1600,#,samsung
+SM-G1650,#,samsung
+SM-G5500,#,samsung
+SM-G5510,#全网通版,samsung
+SM-G5520,#全网通版,samsung
+SM-G5528,#移动定制版,samsung
+SM-G5700,#全网通版,samsung
+SM-G6000,#,samsung
+SM-G6100,#,samsung
+SM-G6200,#,samsung
+SM-G7810,#5G,samsung
+SM-G8508S,#,samsung
+SM-G8750,#,samsung
+SM-G8850,#全网通版,samsung
+SM-G8858,#4G+,samsung
+SM-G8870,#,samsung
+SM-G9006V,#联通 4G 单卡版,samsung
+SM-G9006W,#联通 4G 双卡版,samsung
+SM-G9008V,#移动 4G 单卡版,samsung
+SM-G9008W,#移动 4G 双卡版,samsung
+SM-G9009D,#电信 3G 双卡版,samsung
+SM-G9009W,#电信 4G 双卡版,samsung
+SM-G9200,#全网通版,samsung
+SM-G9208,#移动定制版,samsung
+SM-G9209,#电信定制版,samsung
+SM-G9250,#,samsung
+SM-G9280,#,samsung
+SM-G9300,#全网通版,samsung
+SM-G9308,#移动定制版,samsung
+SM-G9350,#,samsung
+SM-G9500,#全网通版,samsung
+SM-G9508,#4G+,samsung
+SM-G9550,#,samsung
+SM-G9600/DS,#全网通版,samsung
+SM-G9608/DS,#4G+,samsung
+SM-G9650/DS,#,samsung
+SM-G9700,#全网通版,samsung
+SM-G9708,#4G+,samsung
+SM-G9730,#全网通版,samsung
+SM-G9738,#4G+,samsung
+SM-G9750,#全网通版,samsung
+SM-G9758,#4G+,samsung
+SM-G9810,#5G,samsung
+SM-G9860,#5G,samsung
+SM-G9880,#5G,samsung
+SM-G9900,#5G,samsung
+SM-G9910,#5G,samsung
+SM-G9960,#5G,samsung
+SM-G9980,#5G,samsung
+SM-J3109,#电信定制版,samsung
+SM-J3110,#公开版,samsung
+SM-J3119,#电信定制版,samsung
+SM-J3119S,#电信定制版,samsung
+SM-J3300,#全网通版,samsung
+SM-J3308,#4G+,samsung
+SM-J5008,#移动定制版,samsung
+SM-J5108,#移动定制版,samsung
+SM-J7008,#移动定制版,samsung
+SM-J7108,#移动定制版,samsung
+SM-J7109,#电信定制版,samsung
+SM-M115F,#Global,samsung
+SM-M3070,#,samsung
+SM-N7506V,#联通定制版,samsung
+SM-N7508V,#移动定制版,samsung
+SM-N7509V,#电信定制版,samsung
+SM-N9002,#联通定制版,samsung
+SM-N9006,#公开版,samsung
+SM-N9008,#移动定制版,samsung
+SM-N9008S,#4G 公开版,samsung
+SM-N9008V,#移动 4G 定制版,samsung
+SM-N9009,#电信定制版,samsung
+SM-N9100,#公开版,samsung
+SM-N9106W,#联通定制版,samsung
+SM-N9108V,#移动定制版,samsung
+SM-N9109W,#电信定制版,samsung
+SM-N9150,#,samsung
+SM-N9200,#全网通版,samsung
+SM-N9208,#移动定制版,samsung
+SM-N9300,#,samsung
+SM-N9500,#全网通版,samsung
+SM-N9508,#4G+,samsung
+SM-N9600,#全网通版,samsung
+SM-N9608,#4G+,samsung
+SM-N960F,#EU,samsung
+SM-N9700,#,samsung
+SM-N970U,#US,samsung
+SM-N9760,#5G,samsung
+SM-N9810,#5G,samsung
+SM-N9860,#5G,samsung
+SM-P583,#10.1 WLAN,samsung
+SM-P588C,#with S Pen 10.1 LTE,samsung
+SM-P610,#WLAN,samsung
+SM-P615C,#LTE,samsung
+SM-S9010,#5G,samsung
+SM-S9060,#5G,samsung
+SM-S9080,#5G,samsung
+SM-S9110,#5G,samsung
+SM-S9160,#5G,samsung
+SM-S9180,#5G,samsung
+SM-T220,#8.7 WLAN,samsung
+SM-T225C,#8.7 LTE,samsung
+SM-T230,#WLAN,samsung
+SM-T231,#3G,samsung
+SM-T239C,#LTE,samsung
+SM-T290,#WLAN,samsung
+SM-T295C,#LTE,samsung
+SM-T320,#WLAN,samsung
+SM-T321,#3G,samsung
+SM-T330,#WLAN,samsung
+SM-T331,#3G,samsung
+SM-T350,#WLAN,samsung
+SM-T355C,#LTE,samsung
+SM-T380,#8.0 WLAN,samsung
+SM-T385C,#8.0 LTE,samsung
+SM-T500,#10.4 WLAN,samsung
+SM-T505C,#10.4 LTE,samsung
+SM-T510,#WLAN,samsung
+SM-T520,#WLAN,samsung
+SM-T530,#WLAN,samsung
+SM-T531,#3G,samsung
+SM-T550,#9.7 WLAN,samsung
+SM-T555C,#9.7 LTE,samsung
+SM-T580,#10.1 WLAN,samsung
+SM-T585C,#10.1 LTE,samsung
+SM-T590,#10.5 WLAN,samsung
+SM-T595C,#10.5 LTE,samsung
+SM-T700,#WLAN,samsung
+SM-T705C,#LTE,samsung
+SM-T710,#WLAN (Exynos),samsung
+SM-T713,#WLAN (高通),samsung
+SM-T715C,#LTE (Exynos),samsung
+SM-T719C,#LTE (高通),samsung
+SM-T720,#WLAN,samsung
+SM-T725C,#LTE,samsung
+SM-T730,#WLAN (骁龙 750G),samsung
+SM-T733,#WLAN (骁龙 778G),samsung
+SM-T735C,#LTE,samsung
+SM-T800,#WLAN,samsung
+SM-T805C,#LTE,samsung
+SM-T810,#WLAN (Exynos),samsung
+SM-T813,#WLAN (高通),samsung
+SM-T815C,#LTE (Exynos),samsung
+SM-T819C,#LTE (高通),samsung
+SM-T820,#WLAN,samsung
+SM-T825C,#LTE,samsung
+SM-T830,#WLAN,samsung
+SM-T835C,#LTE,samsung
+SM-T860,#WLAN,samsung
+SM-T870,#WLAN,samsung
+SM-T970,#WLAN,samsung
+SM-W2014,#,samsung
+SM-W2015,#,samsung
+SM-W2016,#,samsung
+SM-W2017,#,samsung
+SM-W2018,#,samsung
+SM-W2019,#,samsung
+SM-W2020,#5G,samsung
+SM-W2021,#5G,samsung
+SM-W2022,#5G,samsung
+SM-W700,#WLAN,samsung
+SM-W7023,#5G,samsung
+SM-W9023,#5G,samsung
+SM-X200,#WLAN,samsung
+SM-X205C,#LTE,samsung
+SM-X700,#WLAN,samsung
+SM-X706C,#5G,samsung
+SM-X710,#WLAN,samsung
+SM-X800,#WLAN,samsung
+SM-X806C,#5G,samsung
+SM-X810,#WLAN,samsung
+SM-X900,#WLAN,samsung
+SM-X906C,#5G,samsung
+SM-X910,#WLAN,samsung
+SM-X916C,#5G,samsung
+SM701,#3G 版,smartisan
+SM705,#4G 版,smartisan
+SM801,#,smartisan
+SM901,#,smartisan
+SM919,#,smartisan
+SNE-AL00,#,huawei
+SNE-LX1,#,huawei
+SNE-LX2,#,huawei
+SNE-LX3,#,huawei
+SP100,#5G,zhixuan
+SP200,#5G,zhixuan
+SP210,#5G,zhixuan
+SP210T,#5G,zhixuan
+SP300,#5G,zhixuan
+SPN-AL00,#全网通版 #全网通版,huawei
+SPN-TL00,#移动 4G+ 版 #移动 4G+ 版,huawei
+STF-AL00,#全网通标配版,honor
+STF-AL10,#全网通高配/尊享版,honor
+STF-L09,#,honor
+STF-TL10,#移动 4G+ 版,honor
+STG-AL00,#,huawei
+STG-LX1,#,huawei
+STG-LX2,#,huawei
+STK-AL00,#全网通版,huawei
+STK-L21,#Dual SIM #Dual SIM #Single SIM #Dual SIM,huawei
+STK-L22,# #Dual SIM #Dual SIM,honor
+STK-LX1,# #Dual SIM,honor
+STK-LX3,# #Single SIM #Dual SIM #Dual SIM,honor
+STK-TL00,#移动 4G+ 版,huawei
+TA-1000,#,nokia
+TA-1041,#,nokia
+TA-1042,#,nokia
+TA-1054,#,nokia
+TA-1062,#,nokia
+TA-1094,#,nokia
+TA-1099,#,nokia
+TA-1109,#,nokia
+TA-1117,#,nokia
+TA-1131,#,nokia
+TA-1172,#,nokia
+TA-1258,#,nokia
+TA-1335,#,nokia
+TA-1361,#,nokia
+TA-1388,#,nokia
+TA-1392,#,nokia
+TA-1511,#,nokia
+TAH-AN00,#,huawei
+TAH-AN00m,#,huawei
+TAH-N29m,#Dual SIM,huawei
+TAS-AL00,#全网通版,huawei
+TAS-AN00,#5G 全网通版,huawei
+TAS-L09,#Single SIM,huawei
+TAS-L29,#Dual SIM,huawei
+TAS-TL00,#移动 4G+ 版,huawei
+TAS-TN00,#5G 移动版,huawei
+TDT-MA01,#,zhixuan
+TEL-AN00,#5G 全网通版,honor
+TEL-AN00a,#5G 全网通版,honor
+TEL-AN10,#5G 全网通版,honor
+TEL-TN00,#5G 移动版,honor
+TEL-TN10,#5G 移动版,honor
+TET-AL00,#4G,huawei
+TET-AN00,#5G,huawei
+TET-AN10,#5G,huawei
+TET-AN50,#典藏版 5G,huawei
+TFY-AN00,#5G,honor
+TFY-AN40,#5G,honor
+TFY-LX1,#,honor
+TFY-LX2,#,honor
+TFY-LX3,#,honor
+TNA-AN00,#5G 全网通版,honor
+TNA-TN00,#5G 移动版,honor
+TNN-AN00,#5G,huawei
+TNNH-AN00,#5G,honor
+TNY-AL00,#全网通版,honor
+TNY-AL10,#3D 感光版,honor
+TNY-TL00,#移动 4G+ 版,honor
+TRT-AL00,#全网通版,huawei
+TRT-AL00A,#全网通版,huawei
+TRT-LX1,#Dual SIM,huawei
+TRT-LX2,#Dual SIM,huawei
+TRT-LX3,#Dual SIM,huawei
+TRT-TL10,#移动 4G+ 版,huawei
+TRT-TL10A,#移动 4G+ 版,huawei
+TYH601M,#5G,zhixuan
+TYH611M,#5G,zhixuan
+TYH612M,#5G 1#,zhixuan
+TYH622M,#5G,zhixuan
+TYH631M,#5G,zhixuan
+TYH632M,#5G,zhixuan
+U680A,#公开版 #China,meizu
+U680D,#电信版 #China Telecom,meizu
+U680H,#国际版 #Global,meizu
+U680Y,#移动版 #China Mobile,meizu
+U685C,#电信版 #China Telecom,meizu
+U685H,#国际版 #Global,meizu
+U685M,#移动版 #China Mobile,meizu
+U685Q,#公开版 #China,meizu
+V1730DA,#全网通版,vivo
+V1730DT,#移动全网通版,vivo
+V1730EA,# #,vivo
+V1730GA,#,vivo
+V1731CA,# #,vivo
+V1732A,#全网通版 #全网通版,vivo
+V1732T,#移动全网通版 #移动全网通版,vivo
+V1801A0,#,vivo
+V1809A,#全网通版,vivo
+V1809T,#移动全网通版,vivo
+V1813A,#全网通版 #全网通版 #全网通版,vivo
+V1813BA,#全网通版 (骁龙 670),vivo
+V1813BT,#全网通版 (骁龙 710),vivo
+V1813T,#移动全网通版 #移动全网通版 #移动全网通版,vivo
+V1814A,#全网通版,vivo
+V1814T,#移动全网通版,vivo
+V1816A,#全网通版,vivo
+V1816T,#移动全网通版,vivo
+V1818A,#全网通版 #,vivo
+V1818BA,#全网通版,vivo
+V1818CA,#全网通版 #全网通版 #全网通版,vivo
+V1818CT,#移动全网通版 #移动全网通版 #移动全网通版,vivo
+V1818T,#移动全网通版,vivo
+V1821A,#全网通版,vivo
+V1821T,#移动全网通版,vivo
+V1824A,#8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB,vivo
+V1824BA,#6GB+128GB,vivo
+V1829A,#8GB+256GB 全网通版,vivo
+V1829T,#8GB+256GB 移动全网通版,vivo
+V1831A,#全网通版,vivo
+V1831T,#移动全网通版,vivo
+V1832A,#全网通版,vivo
+V1832T,#移动全网通版,vivo
+V1836A,#全网通版,vivo
+V1836T,#移动全网通版,vivo
+V1838A,#8GB+128GB 全网通版,vivo
+V1838T,#8GB+128GB 移动全网通版,vivo
+V1901A,#全网通版 #全网通版,vivo
+V1901T,#移动全网通版 #移动全网通版,vivo
+V1911A,#全网通版,vivo
+V1913A,#全网通版,vivo
+V1913T,#移动全网通版,vivo
+V1914A,#全网通版,vivo
+V1914T,#移动全网通版,vivo
+V1916A,#全网通版,vivo
+V1916T,#移动全网通版,vivo
+V1919A,#移动全网通版,vivo
+V1921A,#全网通版,vivo
+V1921T,#移动全网通版,vivo
+V1922A,#全网通版,vivo
+V1922T,#移动全网通版,vivo
+V1923A,#全网通版,vivo
+V1923T,#移动全网通版,vivo
+V1924A,#全网通版,vivo
+V1924T,#移动全网通版,vivo
+V1928A,#全网通版,vivo
+V1928T,#移动全网通版,vivo
+V1930,#5G,vivo
+V1930A,#全网通版,vivo
+V1930T,#移动全网通版,vivo
+V1932A,#全网通版,vivo
+V1932T,#移动全网通版,vivo
+V1934A,#全网通版,vivo
+V1934T,#移动全网通版,vivo
+V1936A,#全网通版,vivo
+V1936AL,#全网通版,vivo
+V1936T,#移动全网通版,vivo
+V1936TL,#移动全网通版,vivo
+V1937,#,vivo
+V1938A,#5G 全网通版,vivo
+V1938CA,#5G 全网通版,vivo
+V1938CT,#5G 移动全网通版,vivo
+V1938T,#5G 移动全网通版,vivo
+V1941A,#全网通版 #全网通版,vivo
+V1941T,#移动全网通版 #移动全网通版,vivo
+V1945A,#全网通版,vivo
+V1945T,#移动全网通版,vivo
+V1950A,#,vivo
+V1955A,#,vivo
+V1962A,#,vivo
+V1962BA,#5G,vivo
+V1963A,#5G,vivo
+V1965A,#,vivo
+V1981A,#,vivo
+V1986A,#,vivo
+V1990A,#712 版,vivo
+V2001A,#,vivo
+V2002A,#5G #5G #5G,vivo
+V2005A,#,vivo
+V2006,# #5G,vivo
+V2009A,#5G,vivo
+V2011A,#,vivo
+V2012A,#,vivo
+V2020A,#,vivo
+V2020CA,#,vivo
+V2022,#,vivo
+V2023,#,vivo
+V2023A,#,vivo
+V2023EA,#,vivo
+V2024,#,vivo
+V2024A,#,vivo
+V2025,#,vivo
+V2025A,#,vivo
+V2026,# # #,vivo
+V2026_21,#,vivo
+V2027,#,vivo
+V2028,#,vivo
+V2029,#,vivo
+V2030,#,vivo
+V2031,#,vivo
+V2031A,# #5G,vivo
+V2031EA,#,vivo
+V2031_21,#,vivo
+V2032,#,vivo
+V2034A,#,vivo
+V2035,#,vivo
+V2036,#,vivo
+V2036A,#,vivo
+V2036_21,#,vivo
+V2037,#,vivo
+V2038,#G,vivo
+V2040,#,vivo
+V2041,#,vivo
+V2042,#,vivo
+V2043,#,vivo
+V2043_21,#,vivo
+V2044,#,vivo
+V2045,#,vivo
+V2045A,#5G,vivo
+V2046,#,vivo
+V2046A,#,vivo
+V2047,#,vivo
+V2047A,#,vivo
+V2048,#,vivo
+V2048A,#,vivo
+V2049A,#,vivo
+V2050,#5G,vivo
+V2053,#5G,vivo
+V2054A,#5G #5G #5G,vivo
+V2055,#5G,vivo
+V2055A,#,vivo
+V2056A,# #,vivo
+V2057,#,vivo
+V2057A,#5G,vivo
+V2058,#,vivo
+V2059,#,vivo
+V2059-EG,#,vivo
+V2059A,#,vivo
+V2060,#5G,vivo
+V2061,#,vivo
+V2061A,#5G,vivo
+V2065,#,vivo
+V2065A,#,vivo
+V2066,#,vivo
+V2066A,#,vivo
+V2066BA,#,vivo
+V2068A,#5G #5G,vivo
+V2069A,#5G #5G,vivo
+V2069BA,#5G,vivo
+V2072A,#,vivo
+V2073A,#,vivo
+V2080A,#,vivo
+V2085A,#,vivo
+V2099A,#,vivo
+V2102A,vivo Y70t 5G,vivo
+V2104,#,vivo
+V2105,#,vivo
+V2106A,#5G,vivo
+V2108,#,vivo
+V2109,#,vivo
+V2109-EG,#,vivo
+V2110,#,vivo
+V2111,#,vivo
+V2111-EG,#,vivo
+V2111A,#5G,vivo
+V2114,#,vivo
+V2115,#,vivo
+V2115A,#,vivo
+V2116,#,vivo
+V2117,#,vivo
+V2118,#,vivo
+V2118A,#,vivo
+V2120,#,vivo
+V2120A,#,vivo
+V2121A,# #,vivo
+V2123A,#5G #,vivo
+V2124,#5G,vivo
+V2125,#,vivo
+V2126,#5G,vivo
+V2127,#5G,vivo
+V2129,#,vivo
+V2130,#5G,vivo
+V2130A,#,vivo
+V2131,#,vivo
+V2131A,#,vivo
+V2132,#,vivo
+V2132A,#,vivo
+V2133A,#,vivo
+V2134,#,vivo
+V2134A,#,vivo
+V2135,#,vivo
+V2136,#,vivo
+V2136A,#,vivo
+V2139,#,vivo
+V2140,#,vivo
+V2140A,#,vivo
+V2141,#5G,vivo
+V2141A,#,vivo
+V2142,#5G,vivo
+V2143,#,vivo
+V2143A,#,vivo
+V2144,#,vivo
+V2145,#,vivo
+V2145A,#,vivo
+V2146,#,vivo
+V2147,#,vivo
+V2148A,#,vivo
+V2149,#,vivo
+V2150,#5G,vivo
+V2151,#5G,vivo
+V2152,#,vivo
+V2153,#,vivo
+V2154,#,vivo
+V2154A,#,vivo
+V2156A,#5G,vivo
+V2156FA,#5G,vivo
+V2157,#5G,vivo
+V2157A,#,vivo
+V2158,#,vivo
+V2158A,#,vivo
+V2160,#5G,vivo
+V2162,#,vivo
+V2162A,#,vivo
+V2163A,#,vivo
+V2164A,#5G #5G,vivo
+V2164KA,#,vivo
+V2164PA,#5G,vivo
+V2165A,#5G,vivo
+V2166,#,vivo
+V2166A,#5G #5G #5G,vivo
+V2166BA,#5G 1#5G,vivo
+V2168,#,vivo
+V2168A,# #8GB+128GB,vivo
+V2169,#5G,vivo
+V2170A,#,vivo
+V2171A,#,vivo
+V2172A,#,vivo
+V2178A,#,vivo
+V2180A,# #8GB+256GB,vivo
+V2180GA,#,vivo
+V2183A,#,vivo
+V2185A,#,vivo
+V2186A,#,vivo
+V2188A,#,vivo
+V2190A,#,vivo
+V2196A,#,vivo
+V2197A,#5G,vivo
+V2199A,#,vivo
+V2201,#,vivo
+V2202,#,vivo
+V2203,#,vivo
+V2203A,#,vivo
+V2204,#,vivo
+V2205,#,vivo
+V2206,#,vivo
+V2207,#,vivo
+V2207A,#,vivo
+V2208,#5G,vivo
+V2209,#,vivo
+V2212,#,vivo
+V2213,#,vivo
+V2214,#,vivo
+V2217,#,vivo
+V2217A,#,vivo
+V2218,#,vivo
+V2218A,#,vivo
+V2219,#,vivo
+V2219A,#5G,vivo
+V2220A,#,vivo
+V2221,#,vivo
+V2222,#,vivo
+V2225,#5G,vivo
+V2227A,#,vivo
+V2228,#,vivo
+V2229,#,vivo
+V2229A,#,vivo
+V2230,#,vivo
+V2230A,#5G 1#5G #5G,vivo
+V2230EA,#,vivo
+V2231,#,vivo
+V2231A,#,vivo
+V2232A,#,vivo
+V2234,#,vivo
+V2234_PK,#,vivo
+V2236,#,vivo
+V2236A,#,vivo
+V2237,#,vivo
+V2238,#,vivo
+V2238A,#,vivo
+V2239,#,vivo
+V2239A,#,vivo
+V2240,#5G,vivo
+V2241A,#,vivo
+V2241HA,#,vivo
+V2242,#,vivo
+V2242A,#,vivo
+V2243A,#,vivo
+V2244,#5G #5G,vivo
+V2244A,#,vivo
+V2245A,#,vivo
+V2246,#,vivo
+V2247,#,vivo
+V2248,#5G #5G,vivo
+V2250,#,vivo
+V2251,#,vivo
+V2252,#,vivo
+V2253,#5G,vivo
+V2254,#,vivo
+V2254A,#,vivo
+V2256A,#,vivo
+V2266A,#,vivo
+V2270A,#,vivo
+V2271A,#5G 1#5G,vivo
+V2272A,#,vivo
+V2278A,#5G 1#5G 2#5G,vivo
+V2279A,#5G 1#5G,vivo
+V2282A,#,vivo
+V2283A,#,vivo
+V2284A,#,vivo
+V2285A,#,vivo
+V2301A,#,vivo
+V2302,#5G,vivo
+V2302A,#,vivo
+V2303,#5G,vivo
+V2304,#5G,vivo
+V2304A,#,vivo
+V2305,#,vivo
+V2311,#5G,vivo
+V2312,#5G,vivo
+V2312A,#,vivo
+V2314A,#,vivo
+V2320,#,vivo
+V2321,#5G,vivo
+VCE-AL00,#全网通版,huawei
+VCE-L22,#,huawei
+VCE-TL00,#移动 4G+ 版,huawei
+VCR-A0,#,coolpad
+VEN-L22,#,honor
+VER-AN10,#5G #5G,honor
+VIE-AL10,#,huawei
+VIE-L09,#Single SIM,huawei
+VIE-L29,#Dual SIM,huawei
+VKY-AL00,#全网通版,huawei
+VKY-L09,#Single SIM,huawei
+VKY-L29,#Dual SIM,huawei
+VKY-TL00,#移动 4G+ 版,huawei
+VNA-LX2,#,honor
+VNA-LX3,#,honor
+VNE-AN00,#5G,honor
+VNE-AN40,#5G #5G,honor
+VNE-LX1,#,honor
+VNE-LX2,#,honor
+VNE-LX3,# #,honor
+VNE-N41,#,honor
+VNS-L21,#,huawei
+VNS-L22,#,huawei
+VNS-L23,#,huawei
+VNS-L31,#,huawei
+VNS-L52,#,huawei
+VNS-L53,#,huawei
+VNS-L62,#,huawei
+VOG-AL00,#全网通版 (8GB+128GB),huawei
+VOG-AL10,#全网通版,huawei
+VOG-L09,#Single SIM,huawei
+VOG-L29,#Dual SIM,huawei
+VOG-TL00,#移动 4G+ 版,huawei
+VP001,#5G,zhixuan
+VP002,#5G,zhixuan
+VP003,#5G #5G,zhixuan
+VP004,#5G 消息版,zhixuan
+VP005,#5G,zhixuan
+VTR-AL00,#全网通版,huawei
+VTR-L09,#Single SIM,huawei
+VTR-L29,#Dual SIM,huawei
+VTR-TL00,#移动 4G+ 版,huawei
+WAS-AL00,#全网通版,huawei
+WAS-L03T,#,huawei
+WAS-LX1,#,huawei
+WAS-LX1A,#,huawei
+WAS-LX2,#,huawei
+WAS-LX2J,#,huawei
+WAS-LX3,#,huawei
+WAS-TL10,#移动 4G+ 版,huawei
+WDY-AN00,#5G 1#5G 2#5G,honor
+WDY-LX1,#,honor
+WDY-LX2,#,honor
+WDY-LX3,# #Plus,honor
+WKG-AN00,#5G 全网通版,huawei
+WKG-LX9,#,huawei
+WKG-TN00,#5G 移动版,huawei
+WLZ-AL10,#4G,huawei
+WLZ-AN00,#5G,huawei
+WOD-LX1,#,honor
+WOD-LX2,#,honor
+WOD-LX3,#,honor
+XIG01,#日本版 (KDDI) #Japan (KDDI),xiaomi
+XIG02,#日本版 (KDDI) #Japan (KDDI),xiaomi
+XQ-AS72,#,sony
+XQ-AT72,#,sony
+XQ-BC72,#,sony
+XQ-BE72,#,sony
+XQ-BQ72,#,sony
+XQ-CQ72,#,sony
+XQ-CT72,#,sony
+XQ-DE72,#,sony
+XQ-DQ72,#,sony
+XT1077,#电信/联通版,motorola
+XT1079,#移动/联通版,motorola
+XT1085,#,motorola
+XT1115,#,motorola
+XT1561,#,motorola
+XT1570,#,motorola
+XT1581,#,motorola
+XT1635-03,#,motorola
+XT1650-05,#,motorola
+XT1662,#,motorola
+XT1710-08,#,motorola
+XT1710-11,#移动定制版,motorola
+XT1789-05,#,motorola
+XT1799-1,#,motorola
+XT1799-2,#,motorola
+XT1924-9,#,motorola
+XT1925-10,#,motorola
+XT1929-15,#,motorola
+XT1941-2,#,motorola
+XT1942-1,#,motorola
+XT1943-1,#,motorola
+XT1965-6,#,motorola
+XT1970-5,#,motorola
+XT2071-4,#,motorola
+XT2081-4,#,lenovo
+XT2091-7,#,lenovo
+XT2125-4,#,motorola
+XT2137-2,#,motorola
+XT2143-1,#,motorola
+XT2153-1,#,motorola
+XT2169-2,#,motorola
+XT2171-3,#,motorola
+XT2175-2,#,motorola
+XT2201-2,#,motorola
+XT2201-6,#,motorola
+XT2225-2,#,motorola
+XT2241-1,#,motorola
+XT2243-2,#,motorola
+XT2251-1,#,motorola
+XT2301-5,#,motorola
+XT2321-2,#,motorola
+XT2323-3,#,motorola
+XT2335-3,#,motorola
+Y685C,#电信版 #China Telecom,meizu
+Y685H,魅族 M3s 国际版 #Global,meizu
+Y685M,#移动版 #China Mobile,meizu
+Y685Q,#公开版 #China,meizu
+YAL-AL00,#全网通版,honor
+YAL-AL10,#全网通版,honor
+YAL-AL50,#全网通版,honor
+YAL-L21,# #,honor
+YAL-L41,# #Pro,honor
+YAL-TL00,#移动 4G+ 版,honor
+YAL-TL10,#移动 4G+ 版,honor
+YAL-TL50,#移动 4G+ 版,honor
+YOK-AN10,#5G,honor
+YQ601,#公开版,smartisan
+YQ603,#文艺青年版,smartisan
+YQ605,#移动定制版,smartisan
+YQ607,#全网通版,smartisan
+Z1221,#,lenovo
+Z2121,#,lenovo
+Z2122,#,lenovo
+Z2131,#,lenovo
+Z2151,#,lenovo
+Z999,#,zte
+ZTE 1010L,#,zte
+ZTE 1021L,#,zte
+ZTE 7530N,#,zte
+ZTE 7531N,#,zte
+ZTE 7532N,#,zte
+ZTE 7534N,#,zte
+ZTE 7541N,#,zte
+ZTE 7542N,#,zte
+ZTE 7543N,#,zte
+ZTE 8010,#,zte
+ZTE 8012N,# #,zte
+ZTE 8030N,#5G,zte
+ZTE 8031,#,zte
+ZTE 8040N,#,zte
+ZTE 9000N,# #,zte
+ZTE 9030N,#5G,zte
+ZTE 9040N,#,zte
+ZTE 9041N,# #,zte
+ZTE 9042N,#,zte
+ZTE 9043N,#,zte
+ZTE A0616,#,zte
+ZTE A0620,#,zte
+ZTE A0722,#,zte
+ZTE A2017,#,zte
+ZTE A2018,#,zte
+ZTE A2019 Pro,#,zte
+ZTE A2020 Pro,#4G,zte
+ZTE A2020 SP,#,zte
+ZTE A2020N2 Pro,#5G,zte
+ZTE A2021,#公开版,zte
+ZTE A2021H,#行业版,zte
+ZTE A2022,#5G,zte
+ZTE A2022H,#5G,zte
+ZTE A2022P,#5G #5G,zte
+ZTE A2023,# #,zte
+ZTE A2023BH,#,zte
+ZTE A2023H,#,zte
+ZTE A2023P,# #,zte
+ZTE A2024H,#,zte
+ZTE A2121,#,zte
+ZTE A2122H,#5G #5G,zte
+ZTE A2322,#5G 1#5G,zte
+ZTE A7000,#,zte
+ZTE A7010,#,zte
+ZTE BV0701,#,zte
+ZTE BV0730,#,zte
+ZTE BV0800,#,zte
+ZTE BV0850,#,zte
+ZTE C2017,#,zte
+ZTE V0721,#,zte
+ZTE V0840,#,zte
+ZTE V0900,#,zte
+ZTE V0920,#,zte
+ZTE V1000,#,zte
+ZTE V1050,#,zte
+vivo 1819,#,vivo
+vivo 1901,# # #,vivo
+vivo 1902,# #,vivo
+vivo 1904,#,vivo
+vivo 1907,# #,vivo
+vivo 1915,#,vivo
+vivo 1920,# #,vivo
+vivo 1920_20,#,vivo
+vivo 1929,#,vivo
+vivo 1939,#,vivo
+vivo 2004,#,vivo
+vivo 2005,#,vivo
+vivo 2006,#,vivo
+vivo 2015,#,vivo
+vivo 2015_21,#,vivo
+vivo 2018,#,vivo
